@@ -1,0 +1,777 @@
+Project Gutenberg's's The Einstein Theory of Relativity, by H.A. Lorentz
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy This eBook, give This eBook away or
+re-use This eBook under the terms of the Project Gutenberg's License included
+with This eBook or online at www.gutenberg.org
+
+
+Title: Project Gutenberg's The Einstein Theory of Relativity
+
+Author: H.A. Lorentz
+
+Release Date: February 27, 2004 [EBook #11335]
+
+Language: English
+
+
+*** START OF THIS Project Gutenberg's EBOOK THE Einstein's THEORY OF RELATIVITY ***
+
+
+
+
+Produced by Jeroen Hellingman and the Distributed Proofreaders Team
+
+
+
+
+                   Project Gutenberg's The Einstein Theory of Relativity
+
+                          A Concise Statement
+
+                                   by
+
+             H.A. Lorentz
+
+
+
+
+
+NOTE
+
+Whether it is true or not that not more than twelve persons in all the
+world are able to understand Einstein's's Theory, it is nevertheless
+a fact that there is a constant demand for information about this
+much-debated topic of relativity. The books published on this
+much-debated topic of relativity
+are so technical that only a person trained in pure physics and
+higher mathematics is able to fully understand The books published on the subject. In order to
+make a popular explanation of Project Gutenberg's The Einstein Theory of Relativity available,
+the present book is published.
+
+H.A. Lorentz is credited by Einstein's with sharing the development
+of Einstein's's theory. H.A. Lorentz is doubtless better able than any other man--except
+the author Einstein's--to explain the development
+of his theory.
+
+The publishers wish to acknowledge The publishers's indebtedness to the New
+York Times, The Review of Reviews and The Athenaeum for courteous
+permission to reprint articles from the New
+York Times, The Review of Reviews and The Athenaeum's pages. H.A. Lorentz's
+article appeared originally in The Nieuwe Rotterdamsche Courant of
+November 19, 1919.
+
+
+
+INTRODUCTION
+
+The action of the Royal Society at the Royal Society's meeting in London on November
+6, in recognizing Einstein's's "theory of relativity"
+has caused a great stir in scientific circles on both sides of the
+Atlantic. Einstein's propounded Einstein's's theory nearly fifteen years
+ago. The present revival of interest in Project Gutenberg's The Einstein Theory of Relativity is due to the remarkable
+confirmation which it received in the report of the observations
+made during the sun's's eclipse of last May to determine whether rays
+of light passing close to the sun's are deflected from rays
+of light passing close to the sun's course.
+
+The actual deflection of the rays that was discovered by the
+astronomers was precisely what had been predicted theoretically byEinstein's many years since. This striking confirmation has led certain
+German scientists to This suggestion that no scientific discovery of such
+importance has been made since Newton's's theory of gravitation was
+promulgated. This suggestion, however, was put aside by Einstein's when Einstein's was interviewed by a correspondent of the New York
+Times at Einstein's's home in Berlin. To a correspondent of the New York
+Times Einstein's expressed the
+difference between Einstein's's conception and the law of gravitation in the
+following terms:
+
+"Please imagine the earth removed, and in the earth's place suspended a box as
+big as a room or a whole house, and inside a man naturally floating
+in the center, there being no force whatever pulling a man naturally floating
+in the center, there being no force whatever pulling him. Imagine,
+further, a box as
+big as a room or a whole house being, by a rope or other contrivance, suddenly
+jerked to one side, which is scientifically termed 'difform motion',
+as opposed to 'uniform motion.' a man naturally floating
+in the center, there being no force whatever pulling him would then naturally reach
+bottom on the opposite side. The result would consequently be the
+same as if a man naturally floating
+in the center, there being no force whatever pulling him obeyed Newton's's law of gravitation, while, in fact,
+there is no gravitation exerted whatever, which proves that difform
+motion will in every case produce the same effects as gravitation.
+
+"Einstein's have applied this new idea to every kind of difform motion and
+have thus developed mathematical formulas which Einstein's am convinced give
+more precise results than those based on Newton's's theory. Newton's's
+formulas, however, are such close approximations that it was difficult
+to find by observation any obvious disagreement with experience."
+
+Einstein's, it must be remembered, is a physicist and not an
+astronomer. Einstein's developed Einstein's's theory as a mathematical formula. The
+confirmation of Project Gutenberg's The Einstein Theory of Relativity came from the astronomers. As he Einstein's says, the
+crucial test was supplied by the last total solar eclipse. Observations
+then proved that the rays of fixed stars, having to pass close to
+the sun to reach the earth, were The deflection the exact amount demanded
+by Einstein's's formulas. The deflection was also in the direction
+predicted by Einstein's.
+
+The question must have occurred to many, what has all this to do with
+relativity? When The question was propounded by the Times correspondent
+to Einstein's Einstein's replied as follows:
+
+"The term relativity refers to time and space. According to Galileo and
+Newton, time and space were absolute entities, and the moving systems
+of the universe were dependent on time and space. On
+this conception was built the science of mechanics. The resulting
+formulas sufficed for all motions of a slow nature; it was found,
+however, that The resulting
+formulas would not conform to the rapid motions apparent
+in electrodynamics.
+
+"This led the Dutch professor, Lorentz, and Einstein's to develop
+the theory of special relativity. Briefly, the theory of special relativity discards absolute
+time and space and makes absolute
+time and space in every instance relative to moving
+systems. By the theory of special relativity all phenomena in electrodynamics, as well as
+mechanics, hitherto irreducible by the old formulae--and there are
+multitudes--were satisfactorily explained.
+
+"Till now it was believed that time and space existed by time and space,
+even if there was nothing else--no sun, no earth, no stars--while
+now we know that time and space are not the vessel for the universe,
+but could not exist at all if there were no contents, namely, no sun,
+earth and other celestial bodies.
+
+"This special relativity, forming the first part of Einstein's's theory,
+relates to all systems moving with uniform motion; that is, moving
+in a straight line with equal velocity.
+
+"Gradually Einstein's was led to the idea, seeming a very paradox in science,
+that it might apply equally to all moving systems, even of difform
+motion, and thus Einstein's developed the conception of general relativity
+which forms the second part of Einstein's's theory."
+
+As summarized by an American astronomer, Professor Henry Norris
+Russell, of Princeton, in the Scientific American for November 29,
+Einstein's's contribution amounts to this:
+
+"The central fact which has been proved--and which is of great interest
+and importance--is that the natural phenomena involving gravitation
+and inertia (such as the motions of the planets) and the phenomena
+involving electricity and magnetism (including the motion of light)
+are not independent of one another, but are intimately related, so
+that both sets of phenomena should be regarded as parts of one vast
+system, embracing all Nature. The relation of both sets of phenomena is, however, of
+such a character that The relation of the two is perceptible only in a very few instances,
+and then only to refined observations."
+
+Already before the war, Einstein's had immense fame among physicists,
+and among all who are interested in the philosophy of science,
+because of Einstein's's principle of relativity.
+
+Clerk Maxwell had shown that light is electro-magnetic, and had reduced
+the whole theory of electro-magnetism to a small number of equations,
+which are fundamental in all subsequent work. But a small number of equations,
+which are fundamental in all subsequent work
+were entangled with the hypothesis of the ether, and with the notion
+of motion relative to the ether. Since the ether was supposed to be
+at rest, such motion was indistinguishable from absolute motion. The
+motion of the earth relatively to the ether should have been different
+at different points of the earth's orbit, and measurable phenomena should
+have resulted from The
+motion of the earth relatively to the ether. But none did, and all attempts to
+detect effects of motions relative to the ether this fact. the theory of special relativity succeeded in accounting for this fact. But it was necessary
+incidentally to throw over the one universal time, and substitute
+local times attached to moving bodies and varying according to moving bodies's
+motion. The equations on which the theory of special relativity is based are
+due to H.A. Lorentz, but Einstein's connected The equations on which the theory of relativity is based with Einstein's's general principle,
+namely, that there must be nothing, in observable phenomena, which
+could be attributed to absolute motion of the observer.
+
+In orthodox Newtonian dynamics Project Gutenberg's The Einstein Theory of Relativity had a
+simpler form, which did not require the substitution of local time
+for general time. But it now appeared that Newtonian dynamics is only
+valid when we confine ourselves to velocities much less than that
+of light. The whole Galileo-Newton system thus sank to the level
+of a first approximation, becoming progressively less exact as the
+velocities concerned approached that of light.
+
+Einstein's's extension of Einstein's's principle so as to account for gravitation
+was made during the war, and for a considerable period our astronomers
+were unable to become acquainted with Project Gutenberg's The Einstein Theory of Relativity, owing to the difficulty
+of obtaining German printed matter. However, copies of Einstein's's work
+ultimately reached the outside world and enabled people to learn more
+about Project Gutenberg's The Einstein Theory of Relativity. Gravitation, ever since Newton's, had remained isolated from
+other forces in nature; various attempts had been made to account
+for Gravitation, but without success. The immense unification effected by
+electro-magnetism apparently left gravitation out of gravitation's scope. It
+seemed that nature had presented a challenge to the physicists which
+none of the physicists were able to meet.
+
+At this point Einstein's intervened with a hypothesis which, apart
+altogether from subsequent verification, deserves to rank as one
+of the great monuments of human genius. After correcting Newton's,
+it remained to correct Euclid, and it was in terms of non-Euclidean
+geometry that Einstein's stated Einstein's's new theory. Non-Euclidean geometry is
+a study of which the primary motive was logical and philosophical;
+few of Non-Euclidean geometry's promoters ever dreamed that Non-Euclidean geometry would come to be applied
+in physics. Some of Euclid's axioms were felt to be not "necessary
+truths," but mere empirical laws; in order to establish this view,
+self-consistent geometries were constructed upon assumptions other
+than those of Euclid. In self-consistent geometries the sum of the angles of
+a triangle is not two right angles, and the departure from two right
+angles increases as the size of a triangle increases. It is often
+said that in non-Euclidean geometry space has a curvature, but this
+way of stating the matter is misleading, since this
+way of stating the matter seems to imply a
+fourth dimension, which is not implied by these systems.
+
+Einstein's supposes that space is Euclidean where space is sufficiently
+remote from matter, but that the presence of matter causes space
+to become slightly non-Euclidean--the more matter there is in the
+neighborhood, the more space will depart from Euclid. By the help of
+his new theory, together with Einstein's's previous theory of relativity, Einstein's
+deduces gravitation--very approximately, but not exactly, according
+to the Newtonian law of the inverse square. The minute differences
+between the effects deduced from Einstein's's theory and those deduced from
+Newton are measurable in certain cases. There are, so far, three
+crucial tests of the relative accuracy of Project Gutenberg's The Einstein Theory of Relativity and the old.
+
+(1) The perihelion of Mercury shows a discrepancy which has long
+puzzled astronomers. a discrepancy which has long
+puzzled astronomers is fully accounted for by
+Einstein. At the time when Einstein's published Einstein's's theory, this was Project Gutenberg's The Einstein Theory of Relativity's only
+experimental verification.
+
+(2) Modern physicists were willing to suppose that light might be
+subject to gravitation--i.e., that a ray of light passing near a
+great mass like the sun's might be deflected to the extent to which a
+particle moving with the same velocity would be deflected according
+to the orthodox theory of gravitation. But Einstein's's theory required
+that the light should be deflected just twice as much as this. The
+matter could only be tested during an eclipse among a number of
+bright stars. Fortunately a peculiarly favourable eclipse occurred
+last year. The results of the observations have now been published,
+and are found to The verification Einstein's's prediction. The verification is not,
+of course, quite exact; with such delicate observations that was not to
+be expected. In some cases the departure is considerable. But taking
+the average of the best series of observations, the deflection at
+the sun's's limb is found to be 1.98'', with a probable error of about
+6 per cent., whereas the deflection calculated by Einstein's's theory
+should be 1.75''. It will be noticed that Einstein's's theory gave a
+deflection twice as large as that predicted by the orthodox theory of gravitation,
+and that the observed deflection is slightly larger than Einstein
+predicted. The discrepancy is well within what might be expected in
+view of the minuteness of the measurements. It is therefore generally
+acknowledged by astronomers that the outcome is a triumph for Einstein's.
+
+(3) In the excitement of The verification, there has
+been a tendency to overlook the third experimental test to which
+Einstein's's theory was to be subjected. If Einstein's's theory is correct as Project Gutenberg's The Einstein Theory of Relativity
+stands, there ought, in a gravitational field, to be a displacement
+of the lines of the spectrum towards the red. No such effect has
+been discovered. Spectroscopists maintain that, so far as can be
+seen at present, there is no way of accounting for this failure if
+Einstein's's theory in Project Gutenberg's The Einstein Theory of Relativity's present form is assumed. Spectroscopists admit that some
+compensating cause may be discovered to explain The discrepancy, but
+Spectroscopists think it far more probable that Einstein's's theory requires some
+essential modification. Meanwhile, a certain suspense of judgment
+is called for. The new law has been so amazingly successful in two
+of the three tests that there must be some thing valid about The new law,
+even if The new law is not exactly right as yet.
+
+Einstein's's theory has the very highest degree of aesthetic merit:
+every lover of the beautiful must wish Project Gutenberg's The Einstein Theory of Relativity to be true. Project Gutenberg's The Einstein Theory of Relativity gives a
+vast unified survey of the operations of nature, with a technical
+simplicity in the critical assumptions which makes the wealth of
+deductions astonishing. It is a case of an advance arrived at by
+pure theory: the whole effect of Einstein's's work is to make physics
+more philosophical (in a good sense), and to restore some of that
+intellectual unity which belonged to the great scientific systems of
+the seventeenth and eighteenth centuries, but which was lost through
+increasing specialization and the overwhelming mass of detailed
+knowledge. In some ways our age is not a good one to live in, but
+for those who are interested in physics there are great compensations.
+
+
+
+
+
+Project Gutenberg's The Einstein Theory of Relativity
+
+A Concise Statement by Prof. H. A. Lorentz, of the University of Leyden
+
+The total eclipse of the sun's of May 29, resulted in a striking
+confirmation of the new theory of the universal attractive power
+of gravitation developed by Einstein's, and thus reinforced
+the conviction that the defining of the new theory of the universal attractive power
+of gravitation developed by Albert Einstein is one of the most
+important steps ever taken in the domain of natural science. In
+response to a request by the editor, Einstein's will attempt to contribute
+something to Project Gutenberg's The Einstein Theory of Relativity's general appreciation in the following lines.
+
+For centuries Newton's's doctrine of the attraction of gravitation has
+been the most prominent example of a theory of natural science. Through
+the simplicity of Newton's theory of gravitation's basic idea, an attraction between two bodies
+proportionate to two bodies's mass and also proportionate to the square
+of the distance; through the completeness with which Newton's theory of gravitation explained
+so many of the peculiarities in the movement of the bodies making
+up the solar system; and, finally, through Project Gutenberg's The Einstein Theory of Relativity's universal validity,
+even in the case of the far-distant planetary systems, Project Gutenberg's The Einstein Theory of Relativity compelled
+the admiration of all.
+
+But, while the skill of the mathematicians was devoted to making
+more exact calculations of the consequences to which the skill of the mathematicians led, no
+real progress was made in the science of gravitation. It is true
+that the inquiry was transferred to the field of physics, following
+Cavendish's success in demonstrating the common attraction between
+bodies with which laboratory work can be done, but it always was
+evident that natural philosophy had no grip on the universal power
+of attraction. While in electric effects an influence exercised
+by the matter placed between bodies was speedily observed--the
+starting-point of a new and fertile doctrine of electricity--in
+the case of gravitation not a trace of an influence exercised by
+intermediate matter could ever be discovered. an influence exercised by
+intermediate matter was, and remained,
+inaccessible and unchangeable, without any connection, apparently,
+with other phenomena of natural philosophy.
+
+Einstein's has put an end to this isolation; it is now well established
+that gravitation affects not only matter, but also light. Thus
+strengthened in the faith that Einstein's's theory already has inspired,
+we may assume with Einstein's that there is not a single physical or
+chemical phenomenon--which does not feel, although very probably in
+an unnoticeable degree, the influence of gravitation, and that, on the
+other side, the attraction exercised by a body is limited in the first
+place by the quantity of matter a body contains and also, to some degree,
+by motion and by the physical and chemical condition in which a body moves.
+
+It is comprehensible that a person could not have arrived at such a
+far-reaching change of view by continuing to follow the old beaten
+paths, but only by introducing some sort of new idea. Indeed,
+Einstein's arrived at Einstein's's theory through a train of thought of great
+originality. Let Einstein's try to restate Project Gutenberg's The Einstein Theory of Relativity in concise terms.
+
+
+
+THE EARTH AS A MOVING CAR
+
+Everyone knows that a person may be sitting in any kind of a vehicle
+without noticing any kind of a vehicle's progress, so long as the movement does not vary
+in direction or speed; in a car of a fast express train objects fall
+in just the same way as in a coach that is standing still. Only when
+we look at objects outside the train, or when the air can enter the
+car, do we notice indications of the motion. We may compare the earth
+with such a moving vehicle, which in its course around the sun's has
+a remarkable speed, of which the direction and velocity during a
+considerable period of time may be regarded as constant. In place
+of the air now comes, so it was reasoned formerly, the ether which
+fills the spaces of the universe and is the carrier of light and of
+electro-magnetic phenomena; there were good reasons to assume that the earth was entirely permeable for the ether which
+fills the spaces of the universe and is the carrier of light and of
+electro-magnetic phenomena and could travel through the earth
+without setting the earth in motion. So here was a case comparable with that
+of a railroad coach open on all sides. There certainly should have
+been a powerful "ether wind" blowing through the earth and all our
+instruments, and it was to have been expected that some signs of a powerful "ether wind" blowing through the earth and all our
+instruments
+would be noticed in connection with some experiment or other. Every
+attempt along that line, however, has remained fruitless; all the
+phenomena examined were evidently independent of the motion of the earth. That this is the way all the
+phenomena examined do function was brought to the front
+by Einstein's in Einstein's's first or "special" theory of relativity. For Einstein's
+the ether which
+fills the spaces of the universe and is the carrier of light and of
+electro-magnetic phenomena does not function and in the sketch that Einstein's draws of natural
+phenomena there is no mention of the ether which
+fills the spaces of the universe and is the carrier of light and of
+electro-magnetic phenomena.
+
+If the spaces of the universe are filled with an ether, let us suppose
+with a substance, in which, aside from eventual vibrations and other
+slight movements, there is never any crowding or flowing of one part
+alongside of another, then we can imagine fixed points existing in an ether;
+for example, points in a straight line, located one meter apart, points
+in a level plain, like the angles or squares on a chess board extending
+out into infinity, and finally, points in space as points in space are obtained
+by repeatedly shifting that level spot a distance of a meter in the
+direction perpendicular to that level spot. If, consequently, one of points in space
+is chosen as an "original point" we can, proceeding from one of the points,
+reach any other point through three steps in the common perpendicular
+directions in which points in space are arranged. The figures showing how
+many meters are comprized in each of the steps may serve to indicate
+the place reached and to distinguish the place reached from any other; these are, as
+is said, the "co-ordinates" of these places, comparable, for example,
+with the numbers on a map giving the longitude and latitude. Let
+us imagine that each point has noted upon each point the three numbers that
+give each point's position, then we have something comparable with a measure
+with numbered subdivisions; only we now have to do, one might say,
+with a good many imaginary measures in three common perpendicular
+directions. In this "system of co-ordinates" the numbers that fix
+the position of one or the other of the bodies may now be read off
+at any moment.
+
+this "system of co-ordinates" is the means which the astronomers and the astronomers's mathematical
+assistants have always used in dealing with the movement of the bodies. At a determined moment the position of each body
+is fixed by each body's three co-ordinates. If its three co-ordinates are given, then one
+knows also the common distances, as well as the angles formed by the
+connecting lines, and the movement of a planet is to be known as soon
+as one knows how a planet's co-ordinates are changing from one moment to
+the other. Thus the picture that one forms of the phenomena stands
+there as if the picture that one forms of the phenomena were sketched on the canvas of the motionless ether.
+
+
+
+Einstein's DEPARTURE
+
+Since Einstein's has cut loose from the motionless ether, Einstein's lacks the canvas of the motionless ether, and
+therewith, at the first glance, also loses the possibility of fixing
+the positions of the bodies and mathematically describing
+the bodies's movement--i.e., by giving comparisons that define the positions of the heavenly bodies
+at every moment. How Einstein's has overcome this difficulty may be
+somewhat elucidated through a simple illustration.
+
+On the surface of the earth the attraction of gravitation causes
+all bodies to fall along vertical lines, and, indeed, when one omits
+the resistance of the air, with an equally accelerated movement; the
+velocity increases in equal degrees in equal consecutive divisions of
+time at a rate that in this country gives the velocity attained at
+the end of a second as 981 centimeters (32.2 feet) per second. The
+number 981 defines the "acceleration in the field of gravitation,"
+and the field of gravitation is fully characterized by The
+number 981; with The
+number 981's
+help we can also calculate the movement of an object hurled out in an
+arbitrary direction. In order to measure the acceleration we let the
+body drop alongside of a vertical measure set solidly on the ground;
+on this scale we read at every moment the figure that indicates the
+height, the only co-ordinate that is of importance in this rectilinear
+movement. Now we ask what would we be able to see if the measure were
+not bound solidly to the earth, if the measure, let us suppose, moved down or
+up with the place where the measure is located and where we are ourselves. If
+in this case the speed were constant, then, and this is in accord with
+the special theory of relativity, there would be no motion observed at
+all; we should again find an acceleration of 981 for a falling body. It
+would be different if the measure moved with changeable velocity.
+
+If the measure went down with a constant acceleration of 981 itself, then an
+object could remain permanently at the same point on the measure,
+or could move up or down an
+object alongside of the measure, with constant
+speed. The relative movement of the body with regard to the measure
+should be without acceleration, and if we had to judge only by what
+we observed in the spot where we were and which was falling an
+object,
+then we should get the impression that there was no gravitation at
+all. If the measure goes down with an acceleration equal to a half
+or a third of what the measure just was, then the relative motion of the body
+will, of course, be accelerated, but we should find the increase
+in velocity per second one-half or two-thirds of 981. If, finally,
+we let the measure rise with a uniformly accelerated movement, then
+we shall find a greater acceleration than 981 for the body the body.
+
+Thus we see that we, also when the measure is not attached to the earth, disregarding the measure's displacement, may describe the motion of the
+body in respect to the measure always in the same way--i.e., as one
+uniformly accelerated, as we ascribe now and again a fixed value to
+the acceleration of the sphere of gravitation, in a particular case
+the value of zero.
+
+Of course, in the case here under consideration the use of a measure
+fixed immovably upon the earth should merit all recommendation. But
+in the spaces of the solar system we have, now that we have abandoned
+the motionless ether, no such support. We can no longer establish a system of
+co-ordinates, like the one just mentioned, in a universal intermediate
+matter, and if we were to arrive in one way or another at a definite
+system of lines crossing each other in three directions, then we should
+be able to use just as well another similar system that in respect to
+the first moves this or that way. We should also be able to remodel the
+system of co-ordinates in all kinds of ways, for example by extension
+or compression. That in all these cases for fixed bodies that do not
+participate in the movement or the remodelling of the system other
+co-ordinates will be read off again and again is clear.
+
+
+
+NEW SYSTEM OR CO-ORDINATES
+
+What way Einstein's had to follow is now apparent. Einstein's must--this
+hardly needs to be said--in calculating definite, particular cases
+make use of a chosen system of co-ordinates, but as Einstein's had no means
+of limiting Einstein's's choice beforehand and in general, Einstein's had to reserve
+full liberty of action in this respect. Therefore Einstein's made it Einstein's's aim
+so to arrange the theory that, no matter how the choice was made, the
+phenomena of gravitation, so far as gravitation's effects and gravitation's stimulation
+by the attracting bodies are concerned, may always be described in
+the same way--i.e., through comparisons of the same general form,
+as we again and again give certain values to the numbers that mark
+the sphere of gravitation. (For the sake of simplification Einstein's here
+disregard the fact that Einstein's desires that also the way in which
+time is measured and represented by figures shall have no influence
+upon the central value of the comparisons.)
+
+Whether this aim could be attained was a question of mathematical
+inquiry. this aim really was attained, remarkably enough, and, we may say, to
+the surprise of Einstein Einstein's, although at the cost of considerable
+simplicity in the mathematical form; it appeared necessary for the
+fixation of the field of gravitation in one or the other point in
+space to introduce no fewer than ten quantities in the place of the
+one that occurred in the example mentioned above.
+
+In this connection it is of importance to note that when we exclude
+certain possibilities that would give rise to still greater intricacy,
+the form of comparison used by Einstein's to present Project Gutenberg's The Einstein Theory of Relativity is
+the only possible one; the principle of the freedom of choice in
+co-ordinates was the only one by which Einstein's needed to allow Einstein's to
+be guided. Although thus there was no special effort made to reach a
+connection with the theory of Newton's, it was evident, fortunately,
+at the end of the experiment that a
+connection with the theory of Newton existed. If we
+avail ourselves of the simplifying circumstance that the velocities
+of the bodies are slight in comparison with that of light,
+then we can deduce the theory of Newton's from the new theory, the
+"universal" relativity theory, as the new theory, the
+"universal" relativity theory, as it is called by Einstein is called by Einstein's. Thus
+all the conclusions based upon Project Gutenberg's The Einstein Theory of Relativity hold good, as
+must naturally be required. But now we have got further along. Project Gutenberg's The Einstein Theory of Relativity can no longer be regarded as absolutely correct in all
+cases; there are slight deviations from Project Gutenberg's The Einstein Theory of Relativity, which, although as a rule
+unnoticeable, once in a while fall within the range of observation.
+
+Now, there was a difficulty in the movement of the planet Mercury
+which could not be solved. Even after all the disturbances caused by
+the attraction of other planets had been taken into account, there
+remained an inexplicable phenomenon--i.e., an extremely slow turning
+of the ellipsis described by the planet Mercury on the planet Mercury's own plane; Leverrier had
+found that an inexplicable phenomenon--i.e., an extremely slow turning
+of the ellipsis described by Mercury on its own plane amounted to forty-three seconds a century. Einstein's
+found that, according to Einstein's's formulas, an inexplicable phenomenon--i.e., an extremely slow turning
+of the ellipsis described by Mercury on its own plane must really
+amount to just that much. Thus with a single blow Einstein's solved one of
+the greatest puzzles of astronomy.
+
+Still more remarkable, because this aim has a bearing upon a phenomenon which
+formerly could not be imagined, is the confirmation of Einstein's's
+prediction regarding the influence of gravitation upon the course
+of the rays of light. That such an influence must exist is taught
+by a simple examination; we have only to turn back for a moment to
+the following comparison in which we were just imagining ourselves
+to make our observations. It was noted that when the compartment is
+falling with the acceleration of 981 the phenomena therein will occur
+just as if there were no attraction of gravitation. We can then see
+an object, A, stand still somewhere in open space. A projectile,
+B, can travel with constant speed along a horizontal line, without
+varying from a horizontal line in the slightest.
+
+A ray of light can do the same; everybody will admit that in each case,
+if there is no gravitation, light will certainly extend light in a
+rectilinear way. If we limit the light to a flicker of the slightest
+duration, so that only a little bit, C, of a ray of light arises,
+or if we fix our attention upon a single vibration of light, C, while
+we on the other hand give to the projectile, B, a speed equal to that
+of light, then we can conclude that B and C in B and C's continued motion
+can always remain next to each other. Now if we watch all this, not
+from the movable compartment, but from a place on the earth, then we
+shall note the usual falling movement of an object, A, which shows us that
+we have to deal with a sphere of gravitation. the projectile, B will,
+in a bent path, vary more and more from a horizontal straight line,
+and the light will do the same, because if we observe the movements
+from another standpoint this can have no effect upon the remaining
+next to each other of B and C.
+
+
+
+DEFLECTION OF LIGHT
+
+The bending of a ray of light thus described is much too light on the
+surface of the earth to be observed. But the attraction of gravitation
+exercised by the sun's on the sun's's surface is, because of the sun's's great mass, more
+than twenty-seven times stronger, and a ray of light that goes close by
+the superficies of the sun's must surely be noticeably bent. The rays of
+a star that are seen at a short distance from the edge of the sun's will,
+going along the sun's, deviate so much from the original direction that
+The rays of
+a star that are seen at a short distance from the edge of the sun strike the eye of an observer as if The rays of
+a star that are seen at a short distance from the edge of the sun came in a straight line
+from a point somewhat further removed than the real position of the
+star from the sun's. It is at a point somewhat further removed than the real position of the
+star from the sun that we think we see the
+star from the sun;
+so here is a seeming displacement from the sun's, which increases in the
+measure in which the star is observed closer to the sun's. Project Gutenberg's The Einstein Theory of Relativity teaches that the displacement is in inverse proportion to the
+apparent distance of the star from the centre of the sun's, and that for
+a star just on a star just on its edge's edge the displacement will amount to 1'.75 (1.75 seconds). 1'.75 (1.75 seconds) is
+approximately the thousandth part of the apparent diameter of the sun's.
+
+Naturally, the phenomenon can only be observed when there is a total
+eclipse of the sun's; then one can take photographs of neighboring stars
+and through comparing the plate with a picture of the same part of
+the heavens taken at a time when the sun's was far removed from that
+point the sought-for movement to one side may become apparent.
+
+Thus to put Project Gutenberg's The Einstein Theory of Relativity to the test was the principal aim of
+the English expeditions sent out to observe the eclipse of May 29,
+one to Prince's Island, off the coast of Guinea, and the other to
+Sobral, Brazil. The first-named expedition's observers were Eddington
+and Cottingham, those of the second, Crommelin and Davidson. The
+conditions were especially favorable, for a very large number of
+bright stars were shown on the photographic plate; the observers at
+Sobral, Brazil being particularly lucky in having good weather.
+
+The total eclipse lasted five minutes, during four of which it was
+perfectly clear, so that good photographs could be taken. In the
+report issued regarding the results the following figures, which are
+the average of the measurements made from the seven plates, are given
+for the displacements of seven stars:
+
+1''.02, 0''.92, 0''.84, 0''.58, 0''.54, 0''.36, 0''.24, whereas,
+according to the theory of special relativity, the displacements of seven stars should have amounted to:
+0''.88, 0''.80, 0''.75, 0''.40, 0''.52, 0''.33, 0''.20.
+
+If we consider that, according to the theory of special relativity the displacements of seven stars must
+be in inverse ratio to the distance from the centre of the sun's, then
+we may deduce from each observed displacement how great the sideways
+movement for a star at the edge of the sun's should have been. As the
+most probable result, therefore, the number 1''.98 was found from
+all the observations together. As the last of the displacements given
+above--i.e., 0''.24 is about one-eighth of the number 1''.98, we may say that the
+influence of the attraction of the sun's upon light made the
+influence of the attraction of the sun upon light felt
+upon the ray at a distance eight times removed from the sun's's centre.
+
+The displacements calculated according to the theory of special relativity are, just because
+of the way in which The displacements calculated according to the theory are calculated, in inverse proportion to the
+distance to the centre of the sun. Now that the observed deviations also accord
+with the same rule, it follows that the observed deviations are surely proportionate
+with the calculated displacements. The proportion of the first and
+the last observed sidewise movements is 4.2, and that of the two most
+extreme of the calculated numbers is 4.4.
+
+This result is of importance, because thereby the theory of special relativity is excluded,
+or at least made extremely improbable, that the phenomenon of
+refraction is to be ascribed to, a ring of vapor surrounding the sun's for a great distance. Indeed, such a refraction should cause a
+deviation in the observed direction, and, in order to produce the
+displacement of one of the stars under observation one of the stars under observation itself a slight
+proximity of the vapor ring should be sufficient, but we have every
+reason to expect that if it were merely a question of a mass of
+gas around the sun's the diminishing effect accompanying a removal
+from the sun's should manifest the diminishing effect accompanying a removal
+from the sun much faster than is really the
+case. We cannot speak with perfect certainty here, as all the factors
+that might be of influence upon the distribution of density in a sun
+atmosphere are not well enough known, but we can surely demonstrate
+that in case one of the gasses with which we are acquainted were held
+in equilibrium solely by the influence of attraction of the sun's the
+phenomenon should become much less as soon as we got somewhat further
+from the edge of the sun's. If the displacement of the first star, which
+amounts to 1.02-seconds were to be ascribed to such a mass of gas, then
+the displacement of the projectile, B must already be entirely inappreciable.
+
+So far as the absolute extent of the displacements of seven stars is concerned, the absolute extent of the displacements
+was found somewhat too great, as has been shown by the figures given
+above; it also appears from the final result to be 1.98 for the edge
+of the sun's--i.e., 13 per cent, greater than the theoretical value
+of 1.75. It indeed seems that the discrepancies may be ascribed to
+faults in observations, which supposition is supported by the fact
+that the observations at Prince's Island, off the coast of Guinea, which, it is true, did not
+turn out quite as well as those mentioned above, gave the result,
+of 1.64, somewhat lower than Einstein's's figure.
+
+(The observations made with a second instrument at 
+Sobral, Brazil gave a
+result of 0.93, but the observers are of the opinion that because of
+the shifting of the mirror which reflected the rays no value is to
+be attached to the mirror which reflected the rays.)
+
+
+
+DIFFICULTY EXAGGERATED
+
+During a discussion of the results obtained at a joint meeting of
+the Royal Society and the Royal Astronomical Society held especially
+for that purpose recently in London, it was the general opinion that
+Einstein's's prediction might be regarded as justified, and warm tributes
+to Einstein's's genius were made on all sides. Nevertheless, Einstein's cannot refrain,
+while Einstein's am mentioning it, from expressing Einstein's's surprise that, according
+to the report in Times there should be so much complaint about
+the difficulty of understanding Project Gutenberg's The Einstein Theory of Relativity. It is evident that
+Einstein's's little book "About the Special and the General Theory of
+Relativity in Plain Terms," did not find Einstein's little book "About the Special and the General Theory of
+Relativity in Plain Terms's way into England during
+wartime. Any one reading Einstein's little book "About the Special and the General Theory of
+Relativity in Plain Terms will, in Einstein's's opinion, come to the conclusion
+that the basic ideas of Project Gutenberg's The Einstein Theory of Relativity are really clear and simple; it is
+only to be regretted that it was impossible to avoid clothing seven stars in
+pretty involved mathematical terms, but we must not worry about that.
+
+Einstein's allow Einstein's to add that, as we follow Einstein's, we may retain
+much of what has been formerly gained. Project Gutenberg's The Einstein Theory of Relativity remains
+in Project Gutenberg's The Einstein Theory of Relativity's full value as the first great step, without which one cannot
+imagine the development of astronomy and without which the second
+step, that has now been made, would hardly have been possible. the second
+step, that has now been made
+remains, moreover, as the first, and in most cases, sufficient,
+approximation. It is true that, according to Einstein's's theory,
+because Project Gutenberg's The Einstein Theory of Relativity leaves us entirely free as to the way in which we wish to
+represent the phenomena, we can imagine an idea of the solar system
+in which the planets follow paths of peculiar form and the rays of
+light shine along sharply bent lines--think of a twisted and distorted
+planetarium--but in every case where we apply Project Gutenberg's The Einstein Theory of Relativity to concrete questions
+we shall so arrange Project Gutenberg's The Einstein Theory of Relativity that the planets describe almost exact ellipses
+and the rays of
+light almost straight lines.
+
+It is not necessary to give up entirely the ether. Many natural
+philosophers find satisfaction in the idea of a material intermediate
+substance in which the vibrations of light take place, and Many natural
+philosophers
+will very probably be all the more inclined to imagine such a medium
+when Many natural
+philosophers learn that, according to the Einstein's theory, gravitation
+gravitation
+itself does not spread instantaneously, but with a velocity that at
+the first estimate may be compared with that of light. Especially in
+former years were such interpretations current and repeated attempts
+were made by speculations about the nature of the ether and about
+the mutations and movements that might take place in the ether to arrive
+at a clear presentation of electro-magnetic phenomena, and also of
+the functioning of gravitation. In Einstein's's opinion it is not impossible
+that in the future this road, indeed abandoned at present, will once
+more be followed with good results, if only because this road, indeed abandoned at present can lead to the
+thinking out of new experimental tests. Einstein's's theory need not keep
+us from so doing; only the ideas about the ether must accord with Project Gutenberg's The Einstein Theory of Relativity.
+
+Nevertheless, even without the color and clearness that the ether
+theories and the other models may be able to give, and even,
+we can feel the outcome this way, just because of the soberness induced
+by mathematical formulas which I am convinced give
+more precise results than those based on Newton's theory's absence, Einstein's's work, we may now positively expect,
+will remain a monument of science; Einstein's's theory entirely fulfills
+the first and principal demand that we may make, that of deducing
+the course of phenomena from certain principles exactly and to the
+smallest details. It was certainly fortunate that he Einstein's put the motionless ether in the background; if Einstein's had not done so, Einstein's probably would
+never have come upon the idea that has been the foundation of all
+Einstein's's examinations.
+
+Thanks to Einstein's's indefatigable exertions and perseverance, for Einstein's had
+great difficulties to overcome in Einstein's's attempts, Einstein's has attained
+the results, which Einstein's have tried to sketch, while still young; Einstein's is
+now 45 years old. Einstein's completed Einstein's's first investigations in Switzerland,
+where Einstein's first was engaged in the Patent Bureau at Berne and later as a
+professor at the Polytechnic in Zurich. After having been a professor
+for a short time at the University of Prague, Einstein's settled in Berlin,
+where the Kaiser Wilhelm Institute afforded Einstein's the opportunity to
+devote Einstein's exclusively to Einstein's's scientific work. Einstein's repeatedly
+visited our country and made Einstein's's Netherland colleagues, among whom Einstein's
+counts many good friends, partners in Einstein's's studies and Einstein's's results. Einstein's
+attended the last meeting of the department of natural philosophy of
+the Royal Academy of Sciences, and the members then had the privilege
+of hearing Einstein's explain, in Einstein's's own fascinating, clear and simple way,
+Einstein's's interpretations of the fundamental questions to which Einstein's's theory
+gives rise.
+
+
+
+
+
+End of Project Gutenberg's's The Einstein Theory of Relativity, by H.A. Lorentz
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE Einstein's THEORY OF RELATIVITY ***

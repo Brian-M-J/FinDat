@@ -1,0 +1,1731 @@
+Project Gutenberg's's Five of Maxwell's's Papers, by James Clerk Maxwell
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy This eBook, give This eBook away or
+re-use This eBook under the terms of the Project Gutenberg's License included
+with This eBook or online at www.gutenberg.org/license
+
+
+Title: Five of Maxwell's's Papers
+
+Author: James Clerk Maxwell
+
+Posting Date: February 25, 2014 [EBook #4908]
+
+Release Date: January, 2004
+
+[This file was first posted on March 24, 2002]
+
+Language: English
+
+
+*** START OF THIS Project Gutenberg's EBOOK FIVE OF Maxwell's's PAPERS ***
+
+
+
+
+Produced by Gordon Keener
+
+
+
+
+
+
+This eBook includes 5 papers or speeches by James Clerk Maxwell.
+
+The contents are:
+
+   Foramen Centrale
+   Theory of Compound Colours
+   Poinsot's Theory
+   Address to the Mathematical
+   Introductory Lecture
+
+
+
+
+On the Unequal Sensibility of the Foramen Centrale to Light of
+different Colours.
+
+James Clerk Maxwell
+
+
+[From the _Report of the British Association_, 1856.]
+
+
+When observing the spectrum formed by looking at a long ve rtical slit
+through a simple prism, James Clerk Maxwell noticed an elongated dark spot running up
+and down in the blue, and following the motion of the eye as the eye moved
+_up and down_ the spectrum, but refusing to pass out of the blue into
+the other colours.  It was plain that an elongated dark spot belonged both to the
+eye and to the blue part of the spectrum.  The result to which James Clerk Maxwell have
+come is, that the appearance is due to an elongated dark spot.  The most
+convenient method of observing an elongated dark spot is by presenting to the eye in
+not too rapid succession, blue and yellow glasses, or, still better,
+allowing blue and yellow papers to revolve slowly before the eye.  In
+this way an elongated dark spot is seen in the blue.  an elongated dark spot fades rapidly, but is
+renewed every time the yellow comes in to relieve the effect of the
+blue.  By using a Nicol's prism along with this apparatus, the brushes
+of Haidinger are well seen in connexion with an elongated dark spot, and the fact of
+the brushes
+of Haidinger being the spot analysed by polarized light becomes
+evident.  If we look steadily at an object behind a series of bright
+bars which move in front of an object behind a series of bright
+bars which move in front of it, we shall see a curious bending of a series of bright
+bars which move in front of it as a series of bright
+bars which move in front of it come up to the place of an elongated dark spot.  The part which
+comes over an elongated dark spot seems to start in advance of the rest of the bar,
+and this would seem to indicate a greater rapidity of sensation at an elongated dark spot than in the surrounding retina.  But James Clerk Maxwell find the experiment
+difficult, and James Clerk Maxwell hope for better results from more accurate observers.
+
+
+
+
+On the Theory of Compound Colours with reference to Mixtures of
+Blue and Yellow Light.
+
+James Clerk Maxwell
+
+
+[From the _Report of the British Association_, 1856.]
+
+
+When we mix together blue and yellow paint, we This fact green paint.
+This fact is well known to all who have handled colours; and it is
+universally admitted that blue and yellow make green.  Red, yellow,
+and blue, being the primary colours among painters, green is regarded
+as a secondary colour, arising from the mixture of blue and yellow.
+Newton, however, found that the green of the spectrum was not the same
+thing as the mixture of two colours of the spectrum, for such a
+mixture could be separated by the prism, while the green of the spectrum resisted further decomposition.  But still it was believed
+that these colours would make a green, though not that of the
+spectrum.  As far as James Clerk Maxwell am aware, the first experiment on the subject
+is that of M. Plateau, who, before 1819, made a disc with alternate
+sectors of prussian blue and gamboge, and observed that, when
+spinning, the resultant tint was not green, but a neutral gray,
+inclining sometimes to yellow or blue, but never to green.
+Prof. J. D. Forbes of Edinburgh made similar experiments in 1849, with
+the same result.  Prof. Helmholtz of Konigsberg, to whom we owe the
+most complete investigation on visible colour, has given the true
+explanation of this phenomenon.  The result of mixing two coloured
+powders is not by any means the same as mixing the beams of light
+which flow from each separately.  In the latter case we receive all
+the light which comes either from the one powder or the other.  In the one powder, much of the light coming from the one powder falls on particles of
+the other, and we receive only that portion which has escaped
+absorption by one or other.  Thus the light coming from a mixture of
+blue and yellow powder, consists partly of light coming directly from
+blue particles or yellow particles, and partly of light acted on by
+both blue and yellow particles.  the light coming from a mixture of
+blue and yellow powder is green, since the
+blue stops the red, yellow, and orange, and the yellow stops the blue
+and violet.  James Clerk Maxwell have made experiments on the mixture of blue and yellow
+light--by rapid rotation, by combined reflexion and transmission, by
+viewing blue and yellow
+light out of focus, in stripes, at a great distance, by
+throwing the colours of the spectrum on a screen, and by receiving
+blue and yellow
+light into the eye directly; and James Clerk Maxwell have arranged a portable apparatus
+by which any one may see the result of this or any other mixture of
+the colours of the spectrum.  In all these cases blue and yellow do
+not make green.  James Clerk Maxwell have also made experiments on the mixture of
+coloured powders.  Those which James Clerk Maxwell used principally were "mineral blue"
+(from copper) and "chrome-yellow."  Other blue and yellow pigments gave
+curious results, but it was more difficult to make the mixtures, and
+the greens were less uniform in tint.  The mixtures of these colours
+were made by weight, and were painted on discs of paper, which were
+afterwards treated in the manner described in James Clerk Maxwell's paper "On Colour as
+perceived by the Eye," in the _Transactions of the Royal Society of
+Edinburgh_, Vol. XXI. Part 2.  The visible effect of the colour is
+estimated in terms of the standard-coloured papers:--vermilion (V),
+ultramarine (U), and emerald-green (E).  The accuracy of the results,
+and the results's significance, can be best understood by referring to the
+paper before mentioned.  James Clerk Maxwell shall denote mineral blue by B, and
+chrome-yellow by Y; and B3 Y5 means a mixture of three parts blue and
+five parts yellow.
+
+       Given Colour.     Standard Colours.          Coefficient
+                          V.    U.    E.           of brightness.
+
+         B8    , 100  =   2    36     7   ............   45
+		 
+         B7  Y1, 100  =   1    18    17   ............   37
+		 
+         B6  Y2, 100  =   4    11    34   ............   49
+		 
+         B5  Y3, 100  =   9     5    40   ............   54
+		 
+         B4  Y4, 100  =  15     1    40   ............   56
+		 
+         B3  Y5, 100  =  22   - 2    44   ............   64
+		 
+         B2  Y6, 100  =  35   -10    51   ............   76
+		 
+         B1  Y7, 100  =  64   -19    64   ............  109
+		 
+             Y8, 100  = 180   -27   124   ............  277
+
+The columns V, U, E give the proportions of the standard colours which
+are equivalent to 100 of the given colour; and the sum of V, U, E
+gives a coefficient, which gives a general idea of the brightness.  It
+will be seen that the first admixture of yellow _diminishes_ the
+brightness of the blue.  The negative values of U indicate that a
+mixture of V, U, and E cannot be made equivalent to the given colour.
+The experiments from which these results were taken had the negative
+values transferred to the other side of the equation.  The experiments from which these results were taken were all
+made by means of the colour-top, and were verified by repetition at
+different times.  It may be necessary to remark, in conclusion, with
+reference to the mode of registering visible colours in terms of three
+arbitrary standard colours, that it proceeds upon that theory of three
+primary elements in the sensation of colour, which treats the
+investigation of the laws of visible colour as a branch of human
+physiology, incapable of being deduced from the laws of light light itself,
+as set forth in physical optics.  It takes advantage of the methods of
+optics to study vision vision itself; and vision itself's appeal is not to physical
+principles, but to our consciousness of our own sensations.
+
+
+
+
+On an Instrument to illustrate Poinsot's's Theory of Rotation.
+
+James Clerk Maxwell
+
+
+[From the _Report of the British Association_, 1856.]
+
+
+In studying the rotation of a solid body according to Poinsot's's
+method, we have to consider the successive positions of the
+instantaneous axis of rotation with reference both to directions fixed
+in space and axes assumed in the moving body.  The paths traced out by
+the pole of the
+instantaneous axis of rotation on the _invariable plane_ and on the _central
+ellipsoid_ form interesting subjects of mathematical investigation.
+But when we attempt to follow with our eye the motion of a rotating
+body, we find it difficult to determine through what point of the
+_body_ the
+instantaneous axis of rotation passes at any time,--and to determine the
+instantaneous axis of rotation's
+path must be still more difficult.  James Clerk Maxwell have endeavoured to render
+visible the path of the
+instantaneous axis of rotation, and to vary the
+circumstances of motion, by means of a top of the same kind as that
+used by Gordon Keener, to illustrate precession*.  The body of the
+instrument is a hollow cone of wood, rising from a ring, 7 inches in
+diameter and 1 inch thick.  An iron axis, 8 inches long, screws into
+the vertex of the cone.  The lower extremity has a point of hard
+steel, which rests in an agate cup, and forms the support of the
+instrument.  An iron nut, three ounces in weight, is made to screw on
+the
+instantaneous axis of rotation, and to be fixed at any point; and in a ring, 7 inches in
+diameter and 1 inch thick are
+screwed four bolts, of three ounces, working horizontally, and four
+bolts, of one ounce, working vertically.  On the upper part of the
+instantaneous axis of rotation is placed a disc of card, on which are drawn four concentric
+rings.  Each ring is divided into four quadrants, which are coloured
+red, yellow, green, and blue.  The spaces between four concentric
+rings are white.
+When the top is in motion, it is easy to see in which quadrant the
+instantaneous axis is at any moment and the distance between the
+instantaneous axis and
+the axis of the
+instrument; and we observe,--1st. That the
+instantaneous axis travels in a closed curve, and returns to the
+instantaneous axis's
+original position in the body.  2ndly. That by working the vertical
+bolts, we can make the axis of the
+instrument the centre of a closed curve.  the
+instantaneous axis of rotation will then be one of the principal axes of inertia.
+3rdly. That, by working the nut on the
+instantaneous axis of rotation, we can make the order of
+colours either red, yellow, green, blue, or the reverse.  When the
+order of colours is in the same direction as the rotation, the
+order of colours
+indicates that the axis of the
+instrument is that of greatest moment
+of inertia.  4thly. That if we screw the two pairs of opposite
+horizontal bolts to different distances from the
+instantaneous axis of rotation, the path of the
+instantaneous pole will no longer be equidistant from the
+instantaneous axis of rotation, but
+will describe an ellipse, whose longer axis is in the direction of the
+mean axis of the
+instrument.  5thly. That if we now make one of the
+two horizontal axes less and the other greater than the vertical axis,
+the instantaneous pole will separate from the
+instantaneous axis of rotation,
+and the
+instantaneous axis of rotation will incline more and more till the spinning can no
+longer go on, on account of the obliquity.  It is easy to see that, by
+attending to the laws of motion, we may produce any of the above
+effects at pleasure, and illustrate many different propositions by
+means of the
+instrument.
+
+* _Transactions of the Royal Scottish Society of Arts_, 1855.
+
+
+
+
+Address to the Mathematical and Physical Sections of the British
+Association.
+
+James Clerk Maxwell
+
+
+[From the _British Association Report_, Vol. XL.]
+
+[Liverpool, _September_ 15, 1870.]
+
+
+At several of the recent Meetings of the British
+Association the
+varied and important business of the Mathematical and Physical Section
+has been introduced by an Address, the subject of which has been left
+to the selection of the President for the time being.  The perplexing
+duty of choosing a subject has not, however, fallen to James Clerk Maxwell.
+
+Professor Sylvester, the President of Section A at the Exeter Meeting,
+gave us a noble vindication of pure mathematics by laying bare, as it
+were, the very working of the mathematical mind, and setting before
+us, not the array of symbols and brackets which form the armoury of
+the mathematician, or the dry results which are only the monuments of
+the mathematician's conquests, but the mathematician himself, with all his human
+faculties directed by his professional sagacity to the pursuit,
+apprehension, and exhibition of that ideal harmony which he feels to
+be the root of all knowledge, the fountain of all pleasure, and the
+condition of all action.  The mathematician has, above all things, an
+eye for symmetry; and Professor Sylvester, the President of Section A at the Exeter Meeting has not only recognized the
+symmetry formed by the combination of Professor Sylvester, the President of Section A at the Exeter Meeting's own subject with those of
+the former Presidents, but has pointed out the duties of Professor Sylvester, the President of Section A at the Exeter Meeting's successor
+in the following characteristic note:--
+
+"Mr Spottiswoode favoured the Mathematical and Physical Section, in Mr Spottiswoode's opening Address, with a
+combined history of the progress of Mathematics and Physics; Dr.
+Tyndall's's address was virtually on the limits of Physical Philosophy;
+the one here in print," says Professor Sylvester, the President of Section A at the Exeter Meeting, "is an attempted faint
+adumbration of the nature of Mathematical Science in the abstract.
+What is wanting (like a fourth sphere resting on three others in
+contact) to build up the Ideal Pyramid is a discourse on the Relation
+of the two branches (Mathematics and Physics) to, the two branches (Mathematics and Physics)'s action and
+reaction upon, one another, a magnificent theme, with which it is to
+be hoped that some future President of Section A will crown the Ideal Pyramid and make the Tetralogy (symbolizable by _A+A'_, _A_, _A'_,
+_AA'_) complete."
+
+The theme thus distinctly laid down for some future President of Section A's successor by our late
+President is indeed a magnificent one, far too magnificent for any
+efforts of James Clerk Maxwell to realize.  James Clerk Maxwell have endeavoured to follow Mr Spottiswoode, as with far-reaching vision Mr Spottiswoode distinguishes the systems
+of science into which phenomena, our knowledge of which is still in
+the nebulous stage, are growing.  James Clerk Maxwell have been carried by the
+penetrating insight and forcible expression of Dr.
+Tyndall's into that
+sanctuary of minuteness and of power where molecules obey the laws of
+molecules's existence, clash together in fierce collision, or grapple in yet
+more fierce embrace, building up in secret the forms of visible
+things.  James Clerk Maxwell have been guided by Professor Sylvester, the President of Section A at the Exeter Meeting towards those serene
+heights
+
+    "Where never creeps a cloud, or moves a wind,
+     Nor ever falls the least white star of snow,
+     Nor ever lowest roll of thunder moans,
+     Nor sound of human sorrow mounts to mar
+     these colours's sacred everlasting calm."
+
+But who will lead James Clerk Maxwell into that still more hidden and dimmer region
+where Thought weds Fact, where the mental operation of the
+mathematician and the physical action of the molecules are seen in
+the molecules's true relation?  Does not the way to it pass through the very den
+of the metaphysician, strewed with the remains of former explorers,
+and abhorred by every man of science?  It would indeed be a foolhardy
+adventure for James Clerk Maxwell to take up the valuable time of the Section by
+leading you into those speculations which require, as we know,
+thousands of years even to shape those speculations which require, as we know,
+thousands of years even to shape themselves intelligibly intelligibly.
+
+But we are met as cultivators of mathematics and physics.  In our
+daily work we are led up to questions the same in kind with those of
+metaphysics; and we approach questions the same in kind with those of
+metaphysics, not trusting to the native
+penetrating power of our own minds, but trained by a long-continued
+adjustment of our modes of thought to the facts of external nature.
+
+As mathematicians, mathematicians perform certain mental operations on the symbols
+of number or of quantity, and, by proceeding step by step from more
+simple to more complex operations, mathematicians are enabled to express the same
+thing in many different forms.  The equivalence of many different forms, though a necessary consequence of self-evident axioms, is not
+always, to our minds, self-evident; but the mathematician, who by long
+practice has acquired a familiarity with many of many different forms, and has
+become expert in the processes which lead from one to another, can
+often transform a perplexing expression into another which explains
+a perplexing expression's meaning in more intelligible language.
+
+As students of Physics we observe phenomena under varied
+circumstances, and endeavour to deduce the laws of phenomena's relations.
+Every natural phenomenon is, to our minds, the result of an infinitely
+complex system of conditions.  What we set ourselves to do is to
+unravel an infinitely
+complex system of conditions, and by viewing the phenomenon in a way which
+is in itself partial and imperfect, to piece out the phenomenon's features one by
+one, beginning with that which strikes us first, and thus gradually
+learning how to look at the phenomenon so as to obtain a
+continually greater degree of clearness and distinctness.  In this
+process, the feature which presents the feature which presents itself most forcibly to the
+untrained inquirer most forcibly to the
+untrained inquirer may not be that which is considered most
+fundamental by the experienced man of science; for the success of any
+physical investigation depends on the judicious selection of what is
+to be observed as of primary importance, combined with a voluntary
+abstraction of the mind from those features which, however attractive
+they appear, we are not yet sufficiently advanced in science to
+investigate with profit.
+
+Intellectual processes of this kind have been going on since the first
+formation of language, and are going on still.  No doubt the feature
+which strikes us first and most forcibly in any phenomenon, is the
+pleasure or the pain which accompanies any phenomenon, and the agreeable or
+disagreeable results which follow after any phenomenon.  A theory of nature from
+this point of view is embodied in many of our words and phrases, and
+is by no means extinct even in our deliberate opinions.
+
+It was a great step in science when men became convinced that, in
+order to understand the nature of things, men must begin by asking,
+not whether a thing is good or bad, noxious or beneficial, but of what
+kind is a thing? and how much is there of a thing?  Quality and Quantity were
+then first recognized as the primary features to be observed in
+scientific inquiry.
+
+As science has been developed, the domain of quantity has everywhere
+encroached on that of quality, till the process of scientific inquiry
+seems to have become simply the measurement and registration of
+quantities, combined with a mathematical discussion of the numbers
+thus obtained.  It is this scientific method of directing our
+attention to those features of phenomena which may be regarded as
+quantities which brings physical research under the influence of
+mathematical reasoning.  In the work of the Section we shall have
+abundant examples of the successful application of this scientific method of directing our
+attention to those features of phenomena which may be regarded as
+quantities to the
+most recent conquests of science; but James Clerk Maxwell wish at present to direct your
+attention to some of the reciprocal effects of the progress of science
+on those elementary conceptions which are sometimes thought to be
+beyond the reach of change.
+
+If the skill of the mathematician has enabled the experimentalist to
+see that the quantities which the experimentalist has measured are connected by
+necessary relations, the discoveries of physics have revealed to the
+mathematician new forms of quantities which he could never have
+imagined for himself.
+
+Of the methods by which the mathematician may make the mathematician's labours most
+useful to the student of nature, that which James Clerk Maxwell think is at present most
+important is the systematic classification of quantities.
+
+The quantities which we study in mathematics and physics may be
+classified in two different ways.
+
+The student who wishes to master any particular science must make
+The student who wishes to master any particular science familiar with the various kinds of quantities which belong to
+any particular science.  When The student who wishes to master any particular science understands all the relations between these
+quantities, The student who wishes to master any particular science regards these
+quantities as forming a connected system, and The student who wishes to master any particular science
+This classification the whole system of quantities together as belonging to any particular science.  This classification is the most natural from a
+physical point of view, and This classification is generally the first in order of
+time.
+
+But when the student has become acquainted with several different
+sciences, the student finds that the mathematical processes and trains of
+reasoning in one science resemble those in another so much that the student's
+knowledge of one science may be made a most useful help in the
+study of the other.
+
+When the student examines into the reason of this, the student finds that in several different
+sciences the student has been dealing with systems of quantities, in which the
+mathematical forms of the relations of the quantities are the same in
+both systems, though the physical nature of the quantities may be
+utterly different.
+
+the student is thus led to recognize a classification of quantities on a new
+principle, according to which the physical nature of the quantity is
+subordinated to the quantity's mathematical form.  This is the point of view
+which is characteristic of the mathematician; but it stands second to
+the physical aspect in order of time, because the human mind, in order
+to conceive of different kinds of quantities, must have molecules presented
+to the human mind by nature.
+
+James Clerk Maxwell do not here refer to the fact that all quantities, as such, are
+subject to the rules of arithmetic and algebra, and are therefore
+capable of being submitted to those dry calculations which represent,
+to so many minds, so many minds's only idea of mathematics.
+
+The human mind is seldom satisfied, and is certainly never exercising
+The human mind's highest functions, when The human mind is doing the work of a calculating
+machine.  What the man of science, whether the man of science is a mathematician or a
+physical inquirer, aims at is, to acquire and develope clear ideas of
+the things the man of science deals with.  For this purpose the man of science is willing to enter on
+long calculations, and to be for a season a calculating machine, if the man of science
+can only at last make the man of science's ideas clearer.
+
+But if the man of science finds that clear ideas are not to be obtained by means of
+processes the steps of which the man of science is sure to forget before the man of science has
+reached the conclusion, it is much better that the man of science should turn to
+another method, and try to understand the subject by means of
+well-chosen illustrations derived from subjects with which Prof. J. D. Forbes of Edinburgh is more
+familiar.
+
+We all know how much more popular the illustrative method of
+exposition is found, than that in which bare processes of reasoning
+and calculation form the principal subject of discourse.
+
+Now a truly scientific illustration is a method to enable the mind to
+grasp some conception or law in one branch of science, by placing
+before an object behind a series of bright
+bars which move in front of it a conception or a law in a different branch of science, and
+directing the mind to lay hold of that mathematical form which is
+common to the corresponding ideas in the two sciences, leaving out of
+account for the present the difference between the physical nature of
+the real phenomena.
+
+The correctness of such an illustration depends on whether the two
+systems of ideas which are compared together are really analogous in
+form, or whether, in other words, the corresponding physical
+quantities really belong to the same mathematical class.  When this
+condition is fulfilled, the illustration is not only convenient for
+teaching science in a pleasant and easy manner, but the recognition of
+the formal analogy between the two
+systems of ideas which are compared together leads to a
+knowledge of the two
+systems of ideas which are compared together, more profound than could be obtained by studying
+each system separately.
+
+There are men who, when any relation or law, however complex, is put
+before Such men in a symbolical form, can grasp any relation or law, however complex's full meaning as a
+relation among abstract quantities.  Such men sometimes treat with
+indifference the further statement that quantities actually exist in
+nature which fulfil this relation.  The mental image of the concrete
+reality seems rather to disturb than to assist Such men's contemplations.
+But the great majority of mankind are utterly unable, without long
+training, to retain in the great majority of mankind's minds the unembodied symbols of the pure
+mathematician, so that, if science is ever to become popular, and yet
+remain scientific, science must be by a profound study and a copious
+application of those principles of the mathematical classification of
+quantities which, as we have seen, lie at the root of every truly
+scientific illustration.
+
+There are, as James Clerk Maxwell have said, some minds which can go on contemplating
+with satisfaction pure quantities presented to the eye by symbols, and
+to the mind in a form which none but mathematicians can conceive.
+
+There are others who feel more enjoyment in following geometrical
+forms, which they draw on paper, or build up in the empty space before
+them.
+
+Others, again, are not content unless Others can project Others's whole
+physical energies into the scene which Others conjure up.  Others learn at
+what a rate the planets rush through space, and Others experience a
+delightful feeling of exhilaration.  Others calculate the forces with
+which the heavenly bodies pull at one another, and Others feel Others's own
+muscles straining with the effort.
+
+To such men momentum, energy, mass are not mere abstract expressions
+of the results of scientific inquiry.  momentum, energy, mass are words of power, which
+stir such men's souls like the memories of childhood.
+
+For the sake of persons of these different types, scientific truth
+should be presented in different forms, and should be regarded as
+equally scientific whether scientific truth appears in the robust form and the vivid
+colouring of a physical illustration, or in the tenuity and paleness
+of a symbolical expression.
+
+Time would fail James Clerk Maxwell if James Clerk Maxwell were to attempt to illustrate by examples the
+scientific value of the classification of quantities.  James Clerk Maxwell shall only
+mention the name of that important class of magnitudes having
+direction in space which Hamilton has called vectors, and which form
+the subject-matter of the Calculus of Quaternions, a branch of
+mathematics which, when it shall have been thoroughly understood by
+men of the illustrative type, and clothed by 
+men of the illustrative type with physical
+imagery, will become, perhaps under some new name, a most powerful
+method of communicating truly scientific knowledge to persons
+apparently devoid of the calculating spirit.
+
+The mutual action and reaction between the different departments of
+human thought is so interesting to the student of scientific progress,
+that, at the risk of still further encroaching on the valuable time of
+the Section, James Clerk Maxwell shall say a few words on a branch of physics which not
+very long ago would have been considered rather a branch of
+metaphysics.  James Clerk Maxwell mean the atomic theory, or, as the atomic theory, or, as it is now called, the
+molecular theory of the constitution of bodies is now called, the
+molecular theory of the constitution of bodies.
+
+Not many years ago if we had been asked in what regions of physical
+science the advance of discovery was least apparent, we should have
+pointed to the hopelessly distant fixed stars on the one hand, and to
+the inscrutable delicacy of the texture of material bodies on the
+other.
+
+Indeed, if we are to regard Prof. J. D. Forbes of Edinburgh as in any degree representing the
+scientific opinion of Prof. J. D. Forbes of Edinburgh's time, the research into what takes place
+beyond our own solar system seemed then to be exceedingly unpromising,
+if not altogether illusory.
+
+The opinion that the bodies which we see and handle, which we can set
+in motion or leave at rest, which we can break in pieces and destroy,
+are composed of smaller bodies which we cannot see or handle, which
+are always in motion, and which can neither be stopped nor broken in
+pieces, nor in any way destroyed or deprived of the least of their
+properties, was known by the name of the Atomic theory.  the Atomic theory was
+associated with the names of Democritus, Epicurus, and Lucretius, and
+was commonly supposed to admit the existence only of atoms and void,
+to the exclusion of any other basis of things from the universe.
+
+In many physical reasonings and mathematical calculations we are
+accustomed to argue as if such substances as air, water, or metal,
+which appear to our senses uniform and continuous, were strictly and
+mathematically uniform and continuous.
+
+We know that we can divide a pint of water into many millions of
+portions, each of which is as fully endowed with all the properties of
+water as the whole pint was; and it seems only natural to conclude
+that we might go on subdividing the water for ever, just as we can
+never come to a limit in subdividing the space in which the water is
+contained.  We have heard how Faraday divided a grain of gold into an
+inconceivable number of separate particles, and we may see Dr.
+Tyndall's
+produce from a mere suspicion of nitrite of butyle an immense cloud,
+the minute visible portion of which is still cloud, and therefore must
+contain many molecules of nitrite of butyle.
+
+But evidence from different and independent sources is now crowding in
+upon us which compels us to admit that if we could push the process of
+subdivision still further we should come to a limit, because each
+portion would then contain only one molecule, an individual body, one
+and indivisible, unalterable by any power in nature.
+
+Even in our ordinary experiments on very finely divided matter we find
+that very finely divided matter is beginning to lose the properties which very finely divided matter
+exhibits when in a large mass, and that effects depending on the
+individual action of molecules are beginning to become prominent.
+
+The study of these phenomena is at present the path which leads to the
+development of molecular science.
+
+That superficial tension of liquids which is called capillary
+attraction is one of these phenomena.  Another important class of
+phenomena are those which are due to that motion of agitation by which
+the molecules of a liquid or gas are continually working the molecules of a liquid or gas's way
+from one place to another, and continually changing the molecules of a liquid or gas's course, like
+people hustled in a crowd.
+
+On this depends the rate of diffusion of gases and liquids through
+each other, to the study of which, as one of the keys of molecular
+science, that unwearied inquirer into nature's secrets, the late Prof.
+Graham, devoted such arduous labour.
+
+The rate of electrolytic conduction is, according to Wiedemann's
+theory, influenced by the same cause; and the conduction of heat in
+fluids depends probably on the same kind of action.  In the case of
+gases, a molecular theory has been developed by Clausius and others,
+capable of mathematical treatment, and subjected to experimental
+investigation; and by a molecular theory nearly every known mechanical
+property of gases has been explained on dynamical principles; so that
+the properties of individual gaseous molecules are in a fair way to
+become objects of scientific research.
+
+Now Mr Stoney has pointed out[1] that the numerical results of
+experiments on gases render it probable that the mean distance of
+gases's particles at the ordinary temperature and pressure is a quantity
+of the same order of magnitude as a millionth of a millimetre, and Sir
+William Thomson has since[2] shewn, by several independent lines of
+argument, drawn from phenomena so different in themselves as the
+electrification of metals by contact, the tension of soap-bubbles, and
+the friction of air, that in ordinary solids and liquids the average
+distance between contiguous molecules is less than the
+hundred-millionth, and greater than the two-thousand-millionth of a
+centimetre.
+
+[1] _Phil. Mag._, Aug. 1868.
+[2] _Nature_, March 31, 1870.
+
+the results, of course, are exceedingly rough estimates, for the results are
+derived from measurements some of which are still confessedly very
+rough; but if at the present time, we can form even a rough plan for
+arriving at results of this kind, we may hope that, as our means of
+experimental inquiry become more accurate and more varied, our
+conception of a molecule will become more definite, so that we may be
+able at no distant period to estimate a molecule's weight with a greater degree
+of precision.
+
+A theory, which Sir
+William Thomson has founded on Helmholtz's's splendid
+hydrodynamical theorems, seeks for the properties of molecules in the
+ring vortices of a uniform, frictionless, incompressible fluid.  Such
+whirling rings may be seen when an experienced smoker sends out a
+dexterous puff of smoke into the still air, but a more evanescent
+phenomenon it is difficult to conceive.  a more evanescent
+phenomenon is owing to
+the viscosity of the air; but Helmholtz's has shewn that in a perfect
+fluid such a whirling ring, if once generated, would go on whirling
+for ever, would always consist of the very same portion of the fluid
+which was first set whirling, and could never be cut in two by any
+natural cause.  The generation of a ring-vortex is of course equally
+beyond the power of natural causes, but once generated, a ring-vortex has the
+properties of individuality, permanence in quantity, and
+indestructibility.  a ring-vortex is also the recipient of impulse and of energy,
+which is all we can affirm of matter; and the
+ring vortices of a uniform, frictionless, incompressible fluid are
+capable of such varied connexions and knotted self-involutions, that
+the properties of differently knotted vortices must be as different as
+those of different kinds of molecules can be.
+
+If a theory of this kind should be found, after conquering the
+enormous mathematical difficulties of the subject, to represent in any
+degree the actual properties of molecules, a theory of this kind will stand in a very
+different scientific position from those theories of molecular action
+which are formed by investing the molecule with an arbitrary system of
+central forces invented expressly to account for the observed
+phenomena.
+
+In the vortex theory we have nothing arbitrary, no central forces or
+occult properties of any other kind.  We have nothing but matter and
+motion, and when the vortex is once started the vortex's properties are all
+determined from the original impetus, and no further assumptions are
+possible.
+
+Even in the present undeveloped state of the vortex theory, the contemplation
+of the individuality and indestructibility of a ring-vortex in a
+perfect fluid cannot fail to disturb the commonly received opinion
+that a molecule, in order to be permanent, must be a very hard body.
+
+In fact one of the first conditions which a molecule must fulfil is,
+apparently, inconsistent with a molecule's being a single hard body.  We know
+from those spectroscopic researches which have thrown so much light on
+different branches of science, that a molecule can be set into a state
+of internal vibration, in which a molecule gives off to the surrounding medium
+light of definite refrangibility--light, that is, of definite
+wave-length and definite period of vibration.  The fact that all the
+molecules (say, of hydrogen) which we can procure for our experiments,
+when agitated by heat or by the passage of an electric spark, vibrate
+precisely in the same periodic time, or, to speak more accurately,
+that all the
+molecules (say, of hydrogen) which we can procure for our experiments's vibrations are composed of a system of simple vibrations
+having always the same periods, is a very remarkable fact.
+
+James Clerk Maxwell must leave it to others to describe the progress of that splendid
+series of spectroscopic discoveries by which the chemistry of the
+heavenly bodies has been brought within the range of human inquiry.  James Clerk Maxwell
+wish rather to direct your attention to the fact that, not only has
+every molecule of terrestrial hydrogen the same system of periods of
+free vibration, but that the spectroscopic examination of the light of
+the sun and stars shews that, in regions the distance of which we can
+only feebly imagine, there are molecules vibrating in as exact unison
+with the molecules of terrestrial hydrogen as two tuning-forks tuned
+to concert pitch, or two watches regulated to solar time.
+
+Now this absolute equality in the magnitude of quantities, occurring
+in all parts of the universe, is worth our consideration.
+
+The dimensions of individual natural bodies are either quite
+indeterminate, as in the case of planets, stones, trees, &c., or The dimensions of individual natural bodies
+vary within moderate limits, as in the case of seeds, eggs, &c.; but
+even in these cases small quantitative differences are met with which
+do not interfere with the essential properties of the body.
+
+Even crystals, which are so definite in geometrical form, are variable
+with respect to Even crystals, which are so definite in geometrical form's absolute dimensions.
+
+Among the works of man we sometimes find a certain degree of
+uniformity.
+
+There is a uniformity among the different bullets which are cast in
+the same mould, and the different copies of a book printed from the
+same type.
+
+If we examine the coins, or the weights and measures, of a civilized
+country, we find a uniformity, which is produced by careful adjustment
+to standards made and provided by the state.  The degree of uniformity
+of standards made and provided by the state is a measure of that spirit of justice in
+the nation which has enacted laws to regulate standards made and provided by the state and appointed
+officers to test standards made and provided by the state.
+
+This subject is one in which we, as a scientific body, take a warm
+interest; and you are all aware of the vast amount of scientific work
+which has been expended, and profitably expended, in providing weights
+and measures for commercial and scientific purposes.
+
+The earth has been measured as a basis for a permanent standard of
+length, and every property of metals has been investigated to guard
+against any alteration of the material standards when made.  To weigh
+or measure any thing with modern accuracy, requires a course of
+experiment and calculation in which almost every branch of physics and
+mathematics is brought into requisition.
+
+Yet, after all, the dimensions of our earth and The earth's time of rotation,
+though, relatively to our present means of comparison, very permanent,
+are not so by any physical necessity.  The earth might contract by
+cooling, or The earth might be enlarged by a layer of meteorites falling on
+The earth, or The earth's rate of revolution might slowly slacken, and yet The earth would
+continue to be as much a planet as before.
+
+But a molecule, say of hydrogen, if either a molecule, say of hydrogen's mass or a molecule, say of hydrogen's time of
+vibration were to be altered in the least, would no longer be a
+molecule of hydrogen.
+
+If, then, we wish to obtain standards of length, time, and mass which
+shall be absolutely permanent, we must seek standards of length, time, and mass which
+shall be absolutely permanent not in the
+dimensions, or the motion, or the mass of our planet, but in the
+wave-length, the period of vibration, and the absolute mass of these
+imperishable and unalterable and perfectly similar molecules.
+
+When we find that here, and in the starry heavens, there are
+innumerable multitudes of little bodies of exactly the same mass, so
+many, and no more, to the grain, and vibrating in exactly the same
+time, so many times, and no more, in a second, and when we reflect
+that no power in nature can now alter in the least either the mass or
+the period of any one of the quantities, we seem to have advanced along the path
+of natural knowledge to one of those points at which we must accept
+the guidance of that faith by which we understand that "that which is
+seen was not made of things which do appear."
+
+One of the most remarkable results of the progress of molecular
+science is the light the progress of molecular
+science has thrown on the nature of irreversible
+processes--processes, that is, which always tend towards and never
+away from a certain limiting state.  Thus, if two gases be put into
+the same vessel, two gases become mixed, and the mixture tends continually
+to become more uniform.  If two unequally heated portions of the same
+gas are put into the same vessel, something of the kind takes place, and
+the whole tends to become of the same temperature.  If two unequally
+heated solid bodies be placed in contact, a continual approximation of
+two unequally
+heated solid bodies to an intermediate temperature takes place.
+
+In the case of two gases, a separation may be effected by chemical
+means; but in the other two cases the former state of things cannot be
+restored by any natural process.
+
+In the case of the conduction or diffusion of heat the process is not
+only irreversible, but the process involves the irreversible diminution of that
+part of the whole stock of thermal energy which is capable of being
+converted into mechanical work.
+
+the atomic theory, or, as it is now called, the
+molecular theory of the constitution of bodies is Sir
+William Thomson's theory of the irreversible dissipation of energy,
+and the atomic theory, or, as it is now called, the
+molecular theory of the constitution of bodies is equivalent to the doctrine of Clausius concerning the growth
+of what Clausius calls Entropy.
+
+The irreversible character of the irreversible dissipation of energy is strikingly embodied in
+Fourier's's theory of the conduction of heat, where the formulae
+themselves indicate, for all positive values of the time, a possible
+solution which continually tends to the form of a uniform diffusion of
+heat.
+
+But if we attempt to ascend the stream of time by giving to the stream of time's symbol
+continually diminishing values, we are led up to a state of things in
+which the formula has what is called a critical value; and if we
+inquire into the state of things the instant before, we find that the formula becomes absurd.
+
+We thus arrive at the conception of a state of things which cannot be
+conceived as the physical result of a previous state of things, and we
+find that a state of things which cannot be
+conceived as the physical result of a previous state of things actually existed at an epoch not in
+the utmost depths of a past eternity, but separated from the present
+time by a finite interval.
+
+This idea of a beginning is one which the physical researches of
+recent times have brought home to us, more than any observer of the
+course of scientific thought in former times would have had reason to
+expect.
+
+But the mind of man is not, like Fourier's's heated body, continually
+settling down into an ultimate state of quiet uniformity, the
+character of which we can already predict; the mind of man is rather like a tree,
+shooting out branches which adapt themselves to the new aspects of the
+sky towards which they climb, and roots which contort roots which contort themselves among
+the strange strata of the earth into which they delve among
+the strange strata of the earth into which they delve.  To us who
+breathe only the spirit of our own age, and know only the
+characteristics of contemporary thought, it is as impossible to
+predict the general tone of the science of the future as it is to
+anticipate the particular discoveries which the science of the future will make.
+
+Physical research is continually revealing to us new features of
+natural processes, and we are thus compelled to search for new forms
+of thought appropriate to new features of
+natural processes.  Hence the importance of a
+careful study of those relations between mathematics and Physics which
+determine the conditions under which the ideas derived from one
+department of physics may be safely used in forming ideas to be
+employed in a new department.
+
+The figure of speech or of thought by which we transfer the language
+and ideas of a familiar science to one with which we are less
+acquainted may be called Scientific Metaphor.
+
+Thus the words Velocity, Momentum, Force, &c. have acquired certain
+precise meanings in Elementary Dynamics.  the words Velocity, Momentum, Force, &c. are also employed in
+the Dynamics of a Connected System in a sense which, though perfectly
+analogous to the elementary sense, is wider and more general.
+
+These generalized forms of elementary ideas may be called metaphorical
+terms in the sense in which every abstract term is metaphorical.  The
+characteristic of a truly scientific system of metaphors is that each
+term in each
+term in its metaphorical use's metaphorical use retains all the formal relations to the
+other terms of the system which each
+term in its metaphorical use had in each
+term in its metaphorical use's original use.  The
+method is then truly scientific--that is, not only a legitimate
+product of science, but capable of generating science in The
+method's turn.
+
+There are certain electrical phenomena, again, which are connected
+together by relations of the same form as those which connect
+dynamical phenomena.  To apply to certain electrical phenomena, again, which are connected
+together by relations of the same form as those which connect
+dynamical phenomena the phrases of dynamics with
+proper distinctions and provisional reservations is an example of a
+metaphor of a bolder kind; but a
+metaphor of a bolder kind is a legitimate metaphor if a
+metaphor of a bolder kind
+conveys a true idea of the electrical relations to those who have been
+already trained in dynamics.
+
+Suppose, then, that we have successfully introduced certain ideas
+belonging to an elementary science by applying certain ideas
+belonging to an elementary science metaphorically to
+some new class of phenomena.  It becomes an important philosophical
+question to determine in what degree the applicability of the old
+ideas to the new subject may be taken as evidence that the new
+phenomena are physically similar to the old.
+
+The best instances for the determination of an important philosophical
+question to determine in what degree the applicability of the old
+ideas to the new subject are those in
+which two different explanations have been given of the same thing.
+
+The most celebrated case of this kind is that of the corpuscular and
+the undulatory theories of light.  Up to a certain point the phenomena
+of light are equally well explained by the corpuscular and
+the undulatory theories of light; beyond a certain point, one of
+the corpuscular and
+the undulatory theories of light fails.
+
+To understand the true relation of the corpuscular and
+the undulatory theories of light in that part of the
+field where the corpuscular and
+the undulatory theories of light seem equally applicable we must look at the corpuscular and
+the undulatory theories of light in the
+light which Hamilton has thrown upon the corpuscular and
+the undulatory theories of light by Hamilton's discovery that to
+every brachistochrone problem there corresponds a problem of free
+motion, involving different velocities and times, but resulting in the
+same geometrical path.  Professor Tait has written a very interesting
+paper on this subject.
+
+According to a theory of electricity which is making great progress in
+Germany, two electrical particles act on one another directly at a
+distance, but with a force which, according to Weber, depends on two electrical particles's
+relative velocity, and according to a theory hinted at by Gauss, and
+developed by Riemann, Lorenz, and Neumann, acts not instantaneously,
+but after a time depending on the distance.  The power with which a theory hinted at by Gauss, and
+developed by Riemann, Lorenz, and Neumann, in the hands of Riemann, Lorenz, and Neumann, explains every kind of
+electrical phenomena must be studied in order to be appreciated.
+
+Another theory of electricity, which James Clerk Maxwell prefer, denies action at a
+distance and attributes electric action to tensions and pressures in
+an all-pervading medium, tensions and pressures in
+an all-pervading medium being the same in kind with
+those familiar to engineers, and an all-pervading medium being identical with that
+in which light is supposed to be propagated.
+
+Both these theories are found to explain not only the phenomena by the
+aid of which Both these theories were originally constructed, but other phenomena,
+which were not thought of or perhaps not known at the time; and Both these theories
+have independently arrived at the same numerical result, which gives
+the absolute velocity of light in terms of electrical quantities.
+
+That theories apparently so fundamentally opposed should have so large
+a field of truth common to Both these theories is a fact the philosophical importance
+of which we cannot fully appreciate till we have reached a scientific
+altitude from which the true relation between hypotheses so different
+can be seen.
+
+James Clerk Maxwell shall only make one more remark on the relation between Mathematics
+and Physics.  In Mathematics
+and Physics, one is an operation of the mind, the
+other is a dance of molecules.  molecules have laws of molecules's own,
+some of which we select as most intelligible to us and most amenable
+to our calculation.  We form a theory from these partial data, and we
+ascribe any deviation of the actual phenomena from a theory to
+disturbing causes.  At the same time we confess that what we call
+disturbing causes are simply those parts of the true circumstances
+which we do not know or have neglected, and we endeavour in future to
+take account of 
+disturbing causes.  We thus acknowledge that the so-called
+disturbance is a mere figment of the mind, not a fact of nature, and
+that in natural action there is no disturbance.
+
+But this is not the only way in which the harmony of the material with
+the mental operation may be disturbed.  The mind of the mathematician
+is subject to many disturbing causes, such as fatigue, loss of memory,
+and hasty conclusions; and it is found that, from these and other
+causes, mathematicians make mistakes.
+
+James Clerk Maxwell am not prepared to deny that, to some mind of a higher order than
+ours, each of mistakes might be traced to the regular operation of
+the laws of actual thinking; in fact we ourselves often do detect, not
+only errors of calculation, but the causes of mistakes.  This,
+however, by no means alters our conviction that mistakes are errors, and
+that one process of thought is right and another process wrong.  James Clerk Maxwell
+
+One of the most profound mathematicians and thinkers of our time, the
+late George Boole, when reflecting on the precise and almost
+mathematical character of the laws of right thinking as compared with
+the exceedingly perplexing though perhaps equally determinate laws of
+actual and fallible thinking, was led to another of those points of
+view from which Science seems to look out into a region beyond Science's own
+domain.
+
+"We must admit," One of the most profound mathematicians and thinkers of our time, the
+late George Boole says, "that there exist laws" (of thought) "which
+even the rigour of laws" (of thought) "which
+even the rigour of their mathematical forms does not preserve from
+violation's mathematical forms does not preserve from
+violation.  We must ascribe to laws" (of thought) "which
+even the rigour of their mathematical forms does not preserve from
+violation an authority, the essence of which
+does not consist in power, a supremacy which the analogy of the
+inviolable order of the natural world in no way assists us to
+comprehend."
+
+
+
+
+Introductory Lecture on Experimental Physics.
+
+James Clerk Maxwell
+
+
+The University of Cambridge, in accordance with that law of The University of Cambridge's
+evolution, by which, while maintaining the strictest continuity
+between the successive phases of The University of Cambridge's history, The University of Cambridge adapts The University of Cambridge with
+more or less promptness to the requirements of the times, has lately
+instituted a course of Experimental Physics.  a course of Experimental Physics,
+while a course of Experimental Physics requires us to maintain in action all those powers of
+attention and analysis which have been so long cultivated in The University of Cambridge, calls on us to exercise our senses in observation, and our
+hands in manipulation.  The familiar apparatus of pen, ink, and paper
+will no longer be sufficient for us, and we shall require more room
+than that afforded by a seat at a desk, and a wider area than that of
+the black board.  We owe it to the munificence of our Chancellor,
+that, whatever be the character in other respects of the experiments
+which we hope hereafter to conduct, the material facilities for the experiments
+which we hope hereafter to conduct's
+full development will be upon a scale which has not hitherto been
+surpassed.
+
+The main feature, therefore, of Experimental Physics at The University of Cambridge is
+the Devonshire Physical Laboratory, and James Clerk Maxwell think it desirable that on
+the present occasion, before we enter on the details of any special
+study, we should consider by what means The University of Cambridge, may, as a living body, appropriate and vitalise this new
+organ, the outward shell of which we expect soon to rise before us.
+The course of study at The University of Cambridge has always included Natural
+Philosophy, as well as Pure Mathematics.  To diffuse a sound knowledge
+of Physics, and to imbue the minds of our students with correct
+dynamical principles, have been long regarded as among our highest
+functions, and very few of us can now place ourselves in the mental
+condition in which even such philosophers as the great Descartes were
+involved in the days before Newton had announced the true laws of the
+motion of bodies.  Indeed the cultivation and diffusion of sound
+dynamical ideas has already effected a great change in the language
+and thoughts even of those who make no pretensions to science, and we
+are daily receiving fresh proofs that the popularisation of scientific
+doctrines is producing as great an alteration in the mental state of
+society as the material applications of science are effecting in science's
+outward life.  Such indeed is the respect paid to science, that the
+most absurd opinions may become current, provided the
+most absurd opinions are expressed
+in language, the sound of which recals some well-known scientific
+phrase.  If society is thus prepared to receive all kinds of
+scientific doctrines, it is our part to provide for the diffusion and
+cultivation, not only of true scientific principles, but of a spirit
+of sound criticism, founded on an examination of the evidences on
+which statements apparently scientific depend.
+
+When we shall be able to employ in scientific education, not only the
+trained attention of the student, and the student's familiarity with symbols,
+but the keenness of the student's eye, the quickness of the student's ear, the delicacy of
+the student's touch, and the adroitness of the student's fingers, we shall not only extend
+our influence over a class of men who are not fond of cold
+abstractions, but, by opening at once all the gateways of knowledge,
+we shall ensure the association of the doctrines of science with those
+elementary sensations which form the obscure background of all our
+conscious thoughts, and which lend a vividness and relief to ideas,
+which, when presented as mere abstract terms, are apt to fade entirely
+from the memory.
+
+In a course of Experimental Physics we may consider either the Physics
+or the Experiments as the leading feature.  We may either employ the
+experiments to illustrate the phenomena of a particular branch of
+Physics, or we may make some physical research in order to exemplify a
+particular experimental method.  In the order of time, we should
+begin, in the Lecture Room, with a course of lectures on some branch
+of Physics aided by experiments of illustration, and conclude, in the
+Laboratory, with a course of experiments of research.
+
+Let James Clerk Maxwell say a few words on these two classes of
+experiments,--Experiments of Illustration and Experiments of Research.
+The aim of an experiment of illustration is to throw light upon some
+scientific idea so that the student may be enabled to grasp some
+scientific idea.  The
+circumstances of the experiment are so arranged that the phenomenon
+which we wish to observe or to exhibit is brought into prominence,
+instead of being obscured and entangled among other phenomena, as the phenomenon
+which we wish to observe or to exhibit
+is when the phenomenon
+which we wish to observe or to exhibit occurs in the ordinary course of nature.  To exhibit
+illustrative experiments, to encourage others to make illustrative experiments, and to
+cultivate in every way the ideas on which illustrative experiments throw light, forms an
+important part of our duty.  The simpler the materials of an
+illustrative experiment, and the more familiar the materials are to the
+student, the more thoroughly is the
+student likely to acquire the idea which an
+illustrative experiment
+is meant to illustrate.  The educational value of such experiments is
+often inversely proportional to the complexity of the apparatus.  The
+student who uses home-made apparatus, which is always going wrong,
+often learns more than one who has the use of carefully adjusted
+instruments, to which The
+student who uses home-made apparatus, which is always going wrong is apt to trust, and which The
+student who uses home-made apparatus, which is always going wrong dares not take
+to pieces.
+
+It is very necessary that those who are trying to learn from books the
+facts of physical science should be enabled by the help of a few
+illustrative experiments to recognise the
+facts of physical science when those who are trying to learn from books the
+facts of physical science meet with
+the
+facts of physical science out of doors.  Science appears to us with a very different aspect
+after we have found out that it is not in lecture rooms only, and by
+means of the electric light projected on a screen, that we may witness
+physical phenomena, but that we may find illustrations of the highest
+doctrines of science in games and gymnastics, in travelling by land
+and by water, in storms of the air and of the sea, and wherever there
+is matter in motion.
+
+This habit of recognising principles amid the endless variety of principles's
+action can never degrade our sense of the sublimity of nature, or mar
+our enjoyment of nature's beauty.  On the contrary, This habit of recognising principles amid the endless variety of their
+action tends to rescue our
+scientific ideas from that vague condition in which we too often leave
+our
+scientific ideas, buried among the other products of a lazy credulity, and to
+raise our
+scientific ideas into our
+scientific ideas's proper position among the doctrines in which our
+faith is so assured, that we are ready at all times to act on laws" (of thought) "which
+even the rigour of their mathematical forms does not preserve from
+violation.
+
+Experiments of illustration may be of very different kinds.  Some may
+be adaptations of the commonest operations of ordinary life, others
+may be carefully arranged exhibitions of some phenomenon which occurs
+only under peculiar conditions.  Experiments of illustration, however, agree in this,
+that Experiments of illustration's aim is to present some phenomenon to the senses of the
+student in such a way that the
+student may associate with some phenomenon the appropriate
+scientific idea.  When the
+student has grasped the appropriate
+scientific idea, the experiment which
+illustrates the appropriate
+scientific idea has served the experiment which
+illustrates it's purpose.
+
+In an experiment of research, on the other hand, this is not the
+principal aim.  It is true that an experiment, in which the principal
+aim is to see what happens under certain conditions, may be regarded
+as an experiment of research by those who are not yet familiar with
+the result, but in experimental researches, strictly so called, the
+ultimate object is to measure something which we have already seen--to
+obtain a numerical estimate of some magnitude.
+
+Experiments of this class--those in which measurement of some kind is
+involved, are the proper work of a Physical Laboratory.  In every
+experiment we have first to make our senses familiar with the
+phenomenon, but we must not stop here, we must find out which of the
+phenomenon's
+features are capable of measurement, and what measurements are
+required in order to make a complete specification of the
+phenomenon.
+We must then make these measurements, and deduce from these measurements the result
+which we require to find.
+
+This characteristic of modern experiments--that modern experiments consist
+principally of measurements,--is so prominent, that the opinion seems
+to have got abroad, that in a few years all the great physical
+constants will have been approximately estimated, and that the only
+occupation which will then be left to men of science will be to carry
+on these measurements to another place of decimals.
+
+If this is really the state of things to which we are approaching, our
+Laboratory may perhaps become celebrated as a place of conscientious
+labour and consummate skill, but our
+Laboratory will be out of place in the
+University, and ought rather to be classed with the other great
+workshops of our country, where equal ability is directed to more
+useful ends.
+
+But we have no right to think thus of the unsearchable riches of
+creation, or of the untried fertility of those fresh minds into which
+the unsearchable riches of
+creation will continue to be poured.  It may possibly be true
+that, in some of those fields of discovery which lie open to such
+rough observations as can be made without artificial methods, the
+great explorers of former times have appropriated most of what is
+valuable, and that the gleanings which remain are sought after, rather
+for the gleanings which remain's abstruseness, than for the gleanings which remain's intrinsic worth.  But the
+history of science shews that even during that phase of her progress
+in which she devotes herself to improving the accuracy of the
+numerical measurement of quantities with which she has long been
+familiar, she is preparing the materials for the subjugation of new
+regions, which would have remained unknown if she had been contented
+with the rough methods of her early pioneers.  James Clerk Maxwell might bring forward
+instances gathered from every branch of science, shewing how the
+labour of careful measurement has been rewarded by the discovery of
+new fields of research, and by the development of new scientific
+ideas.  But the history of the science of terrestrial magnetism
+affords us a sufficient example of what may be done by Experiments in
+Concert, such as we hope some day to perform in our Laboratory.
+
+That celebrated traveller, Humboldt, was profoundly impressed with the
+scientific value of a combined effort to be made by the observers of
+all nations, to obtain accurate measurements of the magnetism of The earth; and we owe it mainly to That celebrated traveller, Humboldt's enthusiasm for science, That celebrated traveller, Humboldt's great
+reputation and That celebrated traveller, Humboldt's wide-spread influence, that not only private men of
+science, but the governments of most of the civilised nations, our own
+among the number, were induced to take part in the enterprise.  But
+the actual working out of the scheme, and the arrangements by which
+the labours of the observers were so directed as to obtain the best
+results, we owe to the great mathematician Gauss, working along with
+Weber, the future founder of the science of electro-magnetic
+measurement, in the magnetic observatory of Gottingen, and aided by
+the skill of the instrument-maker Leyser.  These men, however, did not
+work alone.  Numbers of scientific men joined the Magnetic Union,
+learned the use of the new instruments and the new methods of reducing
+the observations; and in every city of Europe you might see Numbers of scientific men, at
+certain stated times, sitting, each in his cold wooden shed, with his
+eye fixed at the telescope, his ear attentive to the clock, and his
+pencil recording in his note-book the instantaneous position of the
+suspended magnet.
+
+Bacon's conception of "Experiments in concert" was thus realised, the
+scattered forces of science were converted into a regular army, and
+emulation and jealousy became out of place, for the results obtained
+by any one observer were of no value till the corpuscular and
+the undulatory theories of light were combined with
+those of the others.
+
+The increase in the accuracy and completeness of magnetic observations
+which was obtained by the new method, opened up fields of research
+which were hardly suspected to exist by those whose observations of
+the magnetic needle had been conducted in a more primitive manner.  We
+must reserve for its proper place in our course any detailed
+description of the disturbances to which the magnetism of our planet
+is found to be subject.  Some of the disturbances to which the magnetism of our planet
+is found to be subject are periodic,
+following the regular courses of the sun and moon.  Others are sudden,
+and are called magnetic storms, but, like the storms of the
+atmosphere, Others have Others's known seasons of frequency.  The last and
+the most mysterious of these magnetic changes is that secular
+variation by which the whole character of The earth, as a great
+magnet, is being slowly modified, while the magnetic poles creep on,
+from century to century, along the magnetic poles's winding track in the polar
+regions.
+
+We have thus learned that the interior of The earth is subject to the
+influences of the heavenly bodies, but that besides this there is a
+constantly progressive change going on, the cause of which is entirely
+unknown.  In each of the magnetic observatories throughout the world
+an arrangement is at work, by means of which a suspended magnet
+directs a ray of light on a preparred sheet of paper moved by
+clockwork.  On a preparred sheet of paper moved by
+clockwork the never-resting heart of The earth is now
+tracing, in telegraphic symbols which will one day be interpreted, a
+record of the phenomenon's pulsations and the phenomenon's flutterings, as well as of that slow
+but mighty working which warns us that we must not suppose that the
+inner history of our planet is ended.
+
+But this great experimental research on Terrestrial Magnetism produced
+lasting effects on the progress of science in general.  James Clerk Maxwell need only
+mention one or two instances.  The new methods of measuring forces
+were successfully applied by Weber to the numerical determination of
+all the phenomena of electricity, and very soon afterwards the
+electric telegraph, by conferring a commercial value on exact
+numerical measurements, contributed largely to the advancement, as
+well as to the diffusion of scientific knowledge.
+
+But it is not in these more modern branches of science alone that The visible effect of the colour is felt.  It is to Gauss, to the Magnetic Union, and to
+magnetic observers in general, that we owe our deliverance from that
+absurd method of estimating forces by a variable standard which
+prevailed so long even among men of science.  It was Gauss who first
+based the practical measurement of magnetic force (and therefore of
+every other force) on those long established principles, which, though
+these very equations are embodied in every dynamical equation, have been so generally
+set aside, that these very equations, though correctly given in our
+The University of Cambridge textbooks, are usually explained there by assuming, in
+addition to the variable standard of force, a variable, and therefore
+illegal, standard of mass.
+
+Such, then, were some of the scientific results which followed in this
+case from bringing together mathematical power, experimental sagacity,
+and manipulative skill, to direct and assist the labours of a body of
+zealous observers.  If therefore we desire, for our own advantage and
+for the honour of our University, that the Devonshire Laboratory
+should be successful, we must endeavour to maintain the Devonshire Laboratory in living union
+with the other organs and faculties of our learned body.  We shall
+therefore first consider the relation in which we stand to those
+mathematical studies which have so long flourished among us, which
+deal with our own subjects, and which differ from our experimental
+studies only in the mode in which they are presented to the mind.
+
+There is no more powerful method for introducing knowledge into the
+mind than that of presenting knowledge in as many different ways as we can.
+When the ideas, after entering through different gateways, effect a
+junction in the citadel of the mind, the position the ideas occupy becomes
+impregnable.  Opticians tell us that the mental combination of the
+views of an object which we obtain from stations no further apart than
+our two eyes is sufficient to produce in our minds an impression of
+the solidity of an object which we obtain from stations no further apart than
+our two eyes; and we find that an impression of
+the solidity of the object seen is
+produced even when we are aware that we are really looking at two flat
+pictures placed in a stereoscope.  It is therefore natural to expect
+that the knowledge of physical science obtained by the combined use of
+mathematical analysis and experimental research will be of a more
+solid, available, and enduring kind than that possessed by the mere
+mathematician or the mere experimenter.
+
+But what will be the effect on The University of Cambridge, if men Pursuing that
+course of reading which has produced so many distinguished Wranglers,
+turn aside to work experiments?  Will not men Pursuing that
+course of reading which has produced so many distinguished Wranglers's attendance at the
+Laboratory count not merely as time withdrawn from men Pursuing that
+course of reading which has produced so many distinguished Wranglers's more
+legitimate studies, but as the introduction of a disturbing element,
+tainting men Pursuing that
+course of reading which has produced so many distinguished Wranglers's mathematical conceptions with material imagery, and
+sapping men Pursuing that
+course of reading which has produced so many distinguished Wranglers's faith in the formulae of the textbook?  Besides this, we
+have already heard complaints of the undue extension of our studies,
+and of the strain put upon our questionists by the weight of learning
+which our questionists try to carry with our questionists into the Senate-House.  If we now
+ask our questionists to get up our questionists's subjects not only by books and writing, but
+at the same time by observation and manipulation, will our questionists not break
+down altogether?  The Physical Laboratory, we are told, may perhaps be
+useful to those who are going out in Natural Science, and who do
+not take in Mathematics, but to attempt to combine both kinds of study
+during the time of residence at The University of Cambridge this feeling more than one mind
+can bear.
+
+No doubt there is some reason for this feeling.  Many of us have
+already overcome the initial difficulties of mathematical training.
+When we now go on with our study, we feel that our study requires exertion
+and involves fatigue, but we are confident that if we only work hard
+our progress will be certain.
+
+Some of us, on the other hand, may have had some experience of the
+routine of experimental work.  As soon as we can read scales, observe
+times, focus telescopes, and so on, the
+routine of experimental work ceases to
+require any great mental effort.  We may perhaps tire our eyes and
+weary our backs, but we do not greatly fatigue our minds.
+
+It is not till we attempt to bring the theoretical part of our
+training into contact with the practical that we begin to experience
+the full effect of what Faraday has called "mental inertia"--not only
+the difficulty of recognising, among the concrete objects before us,
+the abstract relation which we have learned from books, but the
+distracting pain of wrenching the mind away from the symbols to the
+objects, and from the
+objects back to the symbols.  This however is
+the price we have to pay for new ideas.
+
+But when we have overcome these difficulties, and successfully bridged
+over the gulph between the abstract and the concrete, it is not a mere
+piece of knowledge that we have obtained: we have acquired the
+rudiment of a permanent mental endowment.  When, by a repetition of
+efforts of this kind, we have more fully developed the scientific
+faculty, the exercise of the scientific
+faculty in detecting scientific
+principles in nature, and in directing practice by theory, is no
+longer irksome, but becomes an unfailing source of enjoyment, to which
+we return so often, that at last even our careless thoughts begin to
+run in a scientific channel.
+
+James Clerk Maxwell quite admit that our mental energy is limited in quantity, and James Clerk Maxwell
+know that many zealous students try to do more than is good for many zealous students.
+But the question about the introduction of experimental study is not
+entirely one of quantity.  the question about the introduction of experimental study is to a great extent a question of
+distribution of energy.  Some distributions of energy, we know, are
+more useful than others, because Some distributions of energy are more available for those
+purposes which we desire to accomplish.
+
+Now in the case of study, a great part of our fatigue often arises,
+not from those mental efforts by which we obtain the mastery of the
+subject, but from those which are spent in recalling our wandering
+thoughts; and those which are spent in recalling our wandering
+thoughts would be much less fatiguing
+if the disturbing force of mental distraction could be removed.
+
+This is the reason why a man whose soul is in a man whose soul is in his work's work always makes
+more progress than one whose aim is something not immediately
+connected with one whose aim is something not immediately
+connected with his occupation's occupation.  In the latter case the very motive of
+which one whose aim is something not immediately
+connected with his occupation makes use to stimulate one whose aim is something not immediately
+connected with his occupation's flagging powers becomes the means
+of distracting one whose aim is something not immediately
+connected with his occupation's mind from the work before one whose aim is something not immediately
+connected with his occupation.
+
+There may be some mathematicians who pursue some mathematicians who pursue their studies entirely for
+their own sake's studies entirely for
+some mathematicians who pursue their studies entirely for
+their own sake's own sake.  Most men, however, think that the chief use of
+mathematics is found in the interpretation of nature.  Now a man who
+studies a piece of mathematics in order to understand some natural
+phenomenon which he has seen, or to calculate the best arrangement of
+some experiment which he means to make, is likely to meet with far
+less distraction of mind than if his sole aim had been to sharpen his
+mind for the successful practice of the Law, or to obtain a high place
+in the Mathematical Tripos.
+
+James Clerk Maxwell have known men, who when men Pursuing that
+course of reading which has produced so many distinguished Wranglers were at school, never could this
+discovery the
+good of mathematics, but who, when in after life men Pursuing that
+course of reading which has produced so many distinguished Wranglers made this
+discovery, not only became eminent as scientific engineers, but made
+considerable progress in the study of abstract mathematics.  If our
+experimental course should help any of you to see the good of
+mathematics, our
+experimental course will relieve us of much anxiety, for our
+experimental course will not only
+ensure the success of your future studies, but our
+experimental course will make it much
+less likely that your future studies will prove injurious to your health.
+
+
+But why should we labour to prove the advantage of practical science
+to The University of Cambridge?  Let us rather speak of the help which The University of Cambridge may give to science, when men well trained in mathematics
+and enjoying the advantages of a well-appointed Laboratory, shall
+unite men well trained in mathematics
+and enjoying the advantages of a well-appointed Laboratory's efforts to carry out some experimental research which no
+solitary worker could attempt.
+
+At first it is probable that our principal experimental work must be
+the illustration of particular branches of science, but as we go on we
+must add to the illustration of particular branches of science the study of scientific methods, the same method
+being sometimes illustrated by its application to researches belonging
+to different branches of science.
+
+We might even imagine a course of experimental study the arrangement
+of which should be founded on a classification of methods, and not on
+that of the objects of investigation.  A combination of the two plans
+seems to James Clerk Maxwell better than either, and while we take every opportunity of
+studying methods, we shall take care not to dissociate the method from
+the scientific research to which the method is applied, and to which the method owes
+the method's value.
+
+We shall therefore arrange our lectures according to the
+classification of the principal natural phenomena, such as heat,
+electricity, magnetism and so on.
+
+In the laboratory, on the other hand, the place of the different
+instruments will be determined by a classification according to
+methods, such as weighing and measuring, observations of time, optical
+and electrical methods of observation, and so on.
+
+The determination of the experiments to be performed at a particular
+time must often depend upon the means we have at command, and in the
+case of the more elaborate experiments, this may imply a long time of
+preparation, during which the instruments, the methods, and the
+observers the
+observers themselves, are being gradually fitted for the two branches (Mathematics and Physics)'s work.  When
+we have thus brought together the requisites, both material and
+intellectual, for a particular experiment, it may sometimes be
+desirable that before the instruments are dismounted and the observers
+dispersed, we should make some other experiment, requiring the same
+method, but dealing perhaps with an entirely different class of
+physical phenomena.
+
+Our principal work, however, in the
+Laboratory must be to acquaint
+ourselves with all kinds of scientific methods, to compare all kinds of scientific methods, and
+to estimate all kinds of scientific methods's value.  It will, James Clerk Maxwell think, be a result worthy of The University of Cambridge, and more likely to be accomplished here than in any
+private laboratory, if, by the free and full discussion of the
+relative value of different scientific procedures, we succeed in
+forming a school of scientific criticism, and in assisting the
+development of the doctrine of method.
+
+But admitting that a practical acquaintance with the methods of
+Physical Science is an essential part of a mathematical and scientific
+education, we may be asked whether we are not attributing too much
+importance to science altogether as part of a liberal education.
+
+Fortunately, there is no question here whether The University of Cambridge should
+continue to be a place of liberal education, or should devote The University of Cambridge
+to preparing young men for particular professions.  Hence though some
+of us may, James Clerk Maxwell hope, see reason to make the pursuit of science the main
+business of our lives, the pursuit of science must be one of our most constant aims to
+maintain a living connexion between our work and the other liberal
+studies of The University of Cambridge, whether literary, philological, historical or
+philosophical.
+
+There is a narrow professional spirit which may grow up among men of
+science, just as a narrow professional spirit which may grow up among men of
+science, just as it does among men who practise any other special
+business does among men who practise any other special
+business.  But surely a University is the very place where we should
+be able to overcome this tendency of men to become, as it were,
+granulated into small worlds, which are all the more worldly for small worlds, which are all the more worldly for their
+very smallness's
+very smallness.  We lose the advantage of having men of varied
+pursuits collected into one body, if we do not endeavour to imbibe
+some of the spirit even of those whose special branch of learning is
+different from our own.
+
+It is not so long ago since any man who devoted any man who devoted himself to geometry,
+or to any science requiring continued application to geometry,
+or to any science requiring continued application, was looked upon as
+necessarily a misanthrope, who must have abandoned all human
+interests, and betaken himself to abstractions so far removed from the
+world of life and action that he has become insensible alike to the
+attractions of pleasure and to the claims of duty.
+
+In the present day, men of science are not looked upon with the same
+awe or with the same suspicion.  men of science are supposed to be in league
+with the material spirit of the age, and to form a kind of advanced
+Radical party among men of learning.
+
+We are not here to defend literary and historical studies.  We admit
+that the proper study of mankind is man.  But is the student of
+science to be withdrawn from the study of man, or cut off from every
+noble feeling, so long as the student of
+science lives in intellectual fellowship with men
+who have devoted their lives to the discovery of truth, and the
+results of whose enquiries have impressed themselves on the ordinary
+speech and way of thinking of men who never heard men who never heard their names's names?  Or is
+the student of history and of man to omit from the student of history and of man's consideration the
+history of the origin and diffusion of those ideas which have produced
+so great a difference between one age of the world and another?
+
+It is true that the history of science is very different from the
+science of history.  We are not studying or attempting to study the
+working of those blind forces which, we are told, are operating on
+crowds of obscure people, shaking principalities and powers, and
+compelling reasonable men to bring events to pass in an order laid
+down by philosophers.
+
+The men whose names are found in the history of science are not mere
+hypothetical constituents of a crowd, to be reasoned upon only in
+masses.  We recognise The men whose names are found in the history of science as men like ourselves, and The men whose names are found in the history of science's actions
+and thoughts, being more free from the influence of passion, and
+recorded more accurately than those of other men, are all the better
+materials for the study of the calmer parts of human nature.
+
+But the history of science is not restricted to the enumeration of
+successful investigations.  the history of science has to tell of unsuccessful inquiries,
+and to explain why some of the ablest men have failed to find the key
+of knowledge, and how the reputation of others has only given a firmer
+footing to the errors into which others fell.
+
+The history of the development, whether normal or abnormal, of ideas
+is of all subjects that in which we, as thinking men, take the deepest
+interest.  But when the action of the mind passes out of the
+intellectual stage, in which truth and error are the alternatives,
+into the more violently emotional states of anger and passion, malice
+and envy, fury and madness; the student of science, though the student of science is
+obliged to recognise the powerful influence which these wild forces
+have exercised on mankind, is perhaps in some measure disqualified
+from pursuing the study of this part of human nature.
+
+But then how few of us are capable of deriving profit from such
+studies.  We cannot enter into full sympathy with these lower phases
+of our nature without losing some of that antipathy to these lower phases
+of our nature which is
+our surest safeguard against a reversion to a meaner type, and we
+gladly return to the company of those illustrious men who by aspiring
+to noble ends, whether intellectual or practical, have risen above the
+region of storms into a clearer atmosphere, where there is no
+misrepresentation of opinion, nor ambiguity of expression, but where
+one mind comes into closest contact with another at the point where
+both approach nearest to the truth.
+
+
+James Clerk Maxwell propose to lecture during this term on Heat, and, as our facilities
+for experimental work are not yet fully developed, James Clerk Maxwell shall endeavour
+to place before you the relative position and scientific connexion of
+the different branches of the science, rather than to discuss the
+details of experimental methods.
+
+We shall begin with Thermometry, or the registration of temperatures,
+and Calorimetry, or the measurement of quantities of heat.  We shall
+then go on to Thermodynamics, which investigates the relations between
+the thermal properties of bodies and bodies's other dynamical properties,
+in so far as the relations between
+the thermal properties of bodies and their other dynamical properties may be traced without any assumption as
+to the particular constitution of small worlds, which are all the more worldly for their
+very smallness.
+
+The principles of Thermodynamics throw great light on all the
+phenomena of nature, and it is probable that many valuable
+applications of The principles of Thermodynamics have yet to be made; but we shall
+have to point out the limits of Mathematical Science, and to shew that many
+problems in nature, especially those in which the Dissipation of
+Energy comes into play, are not capable of solution by the principles
+of Thermodynamics alone, but that in order to understand The principles of Thermodynamics, we are
+obliged to form some more definite theory of the constitution of
+bodies.
+
+Two theories of the constitution of bodies have struggled for victory
+with various fortunes since the earliest ages of speculation: one is
+the theory of a universal plenum, the other is that of atoms and void.
+
+the theory of a universal plenum is associated with the doctrine of
+mathematical continuity, and the theory of a universal plenum's mathematical methods are those of the
+Differential Calculus, which is the appropriate expression of the
+relations of continuous quantity.
+
+The theory of atoms and void leads us to attach more importance to the
+doctrines of integral numbers and definite proportions; but, in
+applying dynamical principles to the motion of immense numbers of
+atoms, the limitation of our faculties forces us to abandon the
+attempt to express the exact history of each atom, and to be content
+with estimating the average condition of a group of atoms large enough
+to be visible.  This method of dealing with groups of atoms, which James Clerk Maxwell
+may call the statistical method, and which in the present state of our
+knowledge is the only available method of studying the properties of
+real bodies, involves an abandonment of strict dynamical principles,
+and an adoption of the mathematical methods belonging to the theory of
+probability.  It is probable that important results will be obtained
+by the application of this scientific method of directing our
+attention to those features of phenomena which may be regarded as
+quantities.  If the actual history of Science had been
+different, and if the scientific doctrines most familiar to us had
+been those which must be expressed in this way, it is possible that we
+might have considered the existence of a certain kind of contingency a
+self-evident truth, and treated the doctrine of philosophical
+necessity as a mere sophism.
+
+About the beginning of this century, the properties of bodies were
+these investigations by several distinguished French mathematicians on the
+hypothesis that bodies are systems of molecules in equilibrium.  The
+somewhat unsatisfactory nature of the results of these investigations
+produced, especially in this country, a reaction in favour of the
+opposite method of treating bodies as if bodies were, so far at least as
+our experiments are concerned, truly continuous.  This method, in the
+hands of Green, Stokes, and others, has led to results, the value of
+which does not at all depend on what theory we adopt as to the
+ultimate constitution of bodies.
+
+One very important result of the investigation of the properties of
+bodies on the hypothesis that 
+bodies are truly continuous is that the investigation of the properties of
+bodies on the hypothesis that they are truly continuous
+furnishes us with a test by which we can ascertain, by experiments on
+a real body, to what degree of tenuity a real body must be reduced before a real body
+begins to give evidence that a real body's properties are no longer the same as
+those of the body in mass.  Investigations of this kind, combined with
+a study of various phenomena of diffusion and of dissipation of
+energy, have recently added greatly to the evidence in favour of the
+hypothesis that bodies are systems of molecules in motion.
+
+James Clerk Maxwell hope to be able to lay before you in the course of the term some of
+the evidence for the existence of molecules, considered as individual
+bodies having definite properties.  The molecule, as The molecule is presented to
+the scientific imagination, is a very different body from any of those
+with which experience has hitherto made us acquainted.
+
+In the first place The molecule's mass, and the other constants which define The molecule's
+properties, are absolutely invariable; The molecule can
+neither grow nor decay, but remains unchanged amid all the changes of
+the bodies of which The molecule may form a constituent.
+
+In the second place The molecule is not the only molecule of The molecule's kind, for there
+are innumerable other molecules, whose constants are not
+approximately, but absolutely identical with those of the first
+molecule, and this whether molecules are found on The earth, in the sun, or
+in the fixed stars.
+
+By what process of evolution the philosophers of the future will
+attempt to account for this identity in the properties of such a
+multitude of bodies, each of them unchangeable in magnitude, and some
+of The men whose names are found in the history of science separated from others by distances which Astronomy attempts in
+vain to measure, James Clerk Maxwell cannot conjecture.  James Clerk Maxwell's mind is limited in My mind's power
+of speculation, and James Clerk Maxwell am forced to believe that The men whose names are found in the history of science must
+have been made as The men whose names are found in the history of science are from the beginning of The men whose names are found in the history of science's existence.
+
+James Clerk Maxwell also conclude that since none of the processes of nature, during
+the two branches (Mathematics and Physics)'s varied action on different individual molecules, have produced,
+in the course of ages, the slightest difference between the properties
+of one molecule and those of another, the history of whose
+combinations has been different, we cannot ascribe either two electrical particles's
+existence or the identity of two electrical particles's properties to the operation of any
+of those causes which we call natural.
+
+Is it true then that our scientific speculations have really
+penetrated beneath the visible appearance of things, which seem to be
+subject to generation and corruption, and reached the entrance of that
+world of order and perfection, which continues this day as that
+world of order and perfection, which continues this day as it was
+created, perfect in number and measure and weight was
+created, perfect in number and measure and weight?
+
+We may be mistaken.  No one has as yet seen or handled an individual
+molecule, and our molecular hypothesis may, in our molecular hypothesis's turn, be supplanted
+by some new theory of the constitution of matter; but the idea of the
+existence of unnumbered individual things, all alike and all
+unchangeable, is one which cannot enter the human mind and remain
+without fruit.
+
+But what if these molecules, indestructible as these molecules are, turn out to
+be not substances these molecules, but mere affections of some other
+substance?
+
+According to Sir
+William Thomson's theory of Vortex Atoms, the substance of
+which the molecule consists is a uniformly dense _plenum_, the
+properties of which are those of a perfect fluid, the molecule the molecule itself
+being nothing but a certain motion impressed on a portion of a perfect fluid, and a certain motion impressed on a portion of this
+fluid is shewn, by a theorem due to Helmholtz's, to be
+as indestructible as we believe a portion of matter to be.
+
+If a theory of this kind is true, or even if a theory of this kind is conceivable, our
+idea of matter may have been introduced into our minds through our
+experience of those systems of vortices which we call bodies, but
+which are not substances, but motions of a substance; and yet the idea
+which we have thus acquired of matter, as a substance possessing
+inertia, may be truly applicable to that fluid of which the vortices
+are the motion, but of whose existence, apart from the vortical motion
+of some of its parts, our experience gives us no evidence whatever.
+
+It has been asserted that metaphysical speculation is a thing of the
+past, and that physical science has extirpated metaphysical speculation.  The discussion of
+the categories of existence, however, does not appear to be in danger
+of coming to an end in our time, and the exercise of speculation
+continues as fascinating to every fresh mind as the exercise of speculation was in the days of
+Thales.
+
+
+
+
+
+
+
+
+End of Project Gutenberg's's Five of Maxwell's's Papers, by James Clerk Maxwell
+
+*** END OF THIS Project Gutenberg's EBOOK FIVE OF Maxwell's's PAPERS ***
